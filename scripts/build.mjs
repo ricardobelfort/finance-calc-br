@@ -96,7 +96,6 @@ function generateHTML(content, frontmatter, route) {
   <title>${escapeHtml(title)}</title>
   <link rel="stylesheet" href="/assets/css/base.css" />
   <link rel="stylesheet" href="/assets/css/components.css" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.css" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
