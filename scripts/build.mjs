@@ -140,6 +140,10 @@ function generateHTML(content, frontmatter, route) {
           <li><a href="/">Home</a></li>
           <li><a href="/calculadoras/financiar-vs-vista">Calculadoras</a></li>
           <li><a href="/financiamento">Guias</a></li>
+          <li><a href="/cartao">Cartão</a></li>
+          <li><a href="/emprestimos">Empréstimos</a></li>
+          <li><a href="/orcamento">Orçamento</a></li>
+          <li><a href="/investimentos">Investimentos</a></li>
           <li><a href="/sobre">Sobre</a></li>
         </ul>
       </div>
