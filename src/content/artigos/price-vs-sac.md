@@ -52,13 +52,13 @@ Empréstimo de **R$ 10.000** em 12 meses com **1% de juros mensais**.
 
 **Total de juros**: ≈ R$ 661,88
 
-### Vantagens ✅
+### Vantagens
 
 - Parcela previsível (facilita orçamento)
 - Amortização aumenta (motiva a continuar pagando)
 - Mais fácil comparar ofertas
 
-### Desvantagens ❌
+### Desvantagens
 
 - Mais juros no início (comparado a SAC)
 - Total de juros pode ser maior
@@ -91,13 +91,13 @@ Mesmo empréstimo: **R$ 10.000** em 12 meses com **1% de juros mensais**.
 
 **Total de juros**: ≈ R$ 550,00
 
-### Vantagens ✅
+### Vantagens
 
 - Menos juros totais (economiza dinheiro)
 - Parcelas decrescem (mais fácil no final)
 - Transparência (vê claramente quanto amortiza)
 
-### Desvantagens ❌
+### Desvantagens
 
 - Primeira parcela é alta (apertar no começo)
 - Parcelas são impredizíveis
@@ -136,7 +136,7 @@ Mesmo cenário: **R$ 10.000**, **12 meses**, **1% de juros mensais**
 
 ---
 
-## 📊 Impacto do Tempo
+## Impacto do Tempo
 
 Vamos comparar juros em **36 meses** (cenários comuns):
 
@@ -166,7 +166,7 @@ Vamos comparar juros em **36 meses** (cenários comuns):
 
 ---
 
-## ⚠️ Cuidados Importantes
+## Cuidados Importantes
 
 ### Nem Sempre Você Tem Escolha
 
@@ -185,21 +185,21 @@ Mesmo que o banco ofereça um sistema, pergunte:
 
 ---
 
-## 🔢 Tabela Comparativa Final
+## Tabela Comparativa Final
 
 | Aspecto                 | Price      | SAC               |
 | ----------------------- | ---------- | ----------------- |
 | Parcelas                | Iguais     | Decrescentes      |
 | Compreensão             | Mais fácil | Requer explicação |
-| Total de juros          | Maior      | **Menor** ✓       |
+| Total de juros          | Maior      | **Menor**         |
 | Primeira parcela        | Menor      | Maior             |
 | Risco de não pagar      | Menor      | Menor             |
-| Melhor para longo prazo | Não        | **Sim** ✓         |
-| Melhor para curto prazo | **Sim** ✓  | Não               |
+| Melhor para longo prazo | Não        | **Sim**           |
+| Melhor para curto prazo | **Sim**    | Não               |
 
 ---
 
-## 🧮 Fórmulas (Para os curiosos)
+## Fórmulas (Para os curiosos)
 
 ### Price
 
@@ -220,7 +220,7 @@ Mais simples: Amortização fixa + juros sobre saldo.
 
 ---
 
-## ✅ Checklist de Decisão
+## Checklist de Decisão
 
 Antes de assinar:
 
@@ -233,7 +233,7 @@ Antes de assinar:
 
 ---
 
-## 📚 Próximos Passos
+## Próximos Passos
 
 - [Calculadora: Financiar vs À Vista](/calculadoras/financiar-vs-vista) — Teste cenários reais
 - [Entrada ou Parcela?](/financiamento/entrada-ou-parcela) — Estratégias para economizar

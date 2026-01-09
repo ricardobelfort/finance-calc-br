@@ -165,7 +165,7 @@ Em 12 anos, seus R$ 1.000 viram aproximadamente R$ 2.000.
 
 ---
 
-## 💡 Dicas Práticas
+## Dicas Práticas
 
 ### Minimize Juros
 
@@ -182,7 +182,7 @@ Em 12 anos, seus R$ 1.000 viram aproximadamente R$ 2.000.
 
 ---
 
-## ⚠️ Armadilhas Comuns
+## Armadilhas Comuns
 
 | Armadilha                           | O Problema                            |
 | ----------------------------------- | ------------------------------------- |
@@ -193,7 +193,7 @@ Em 12 anos, seus R$ 1.000 viram aproximadamente R$ 2.000.
 
 ---
 
-## 📚 Próximas Leituras
+## Próximas Leituras
 
 - [Calculadora: Financiar vs À Vista](/calculadoras/financiar-vs-vista) — Veja na prática como juros afetam decisões
 - [Price vs SAC](/financiamento/price-vs-sac) — Compare sistemas de amortização
@@ -201,7 +201,7 @@ Em 12 anos, seus R$ 1.000 viram aproximadamente R$ 2.000.
 
 ---
 
-## 🤔 Perguntas Frequentes
+## Perguntas Frequentes
 
 <details>
 <summary>Juros simples nunca é usado?</summary>

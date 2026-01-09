@@ -81,7 +81,7 @@ Isso significa que:
 
 ## Alertas Importantes
 
-⚠️ **Estes são cálculos teóricos**. A realidade pode ser diferente:
+**Estes são cálculos teóricos**. A realidade pode ser diferente:
 
 - Algumas lojas cobram juros escondidos (taxas administrativas)
 - Crédito pessoal pode ter juros mais altos

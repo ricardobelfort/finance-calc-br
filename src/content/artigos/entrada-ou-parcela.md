@@ -105,7 +105,7 @@ Exemplo com carro de R$ 40.000, 36 meses, 1,5% juros mensais:
 | Produto essencial (carro para trabalhar) | Investe em si mesmo             |
 | Pode negociar desconto na entrada        | Combina com o vendedor          |
 
-### ❌ Situações Desfavoráveis
+### Situações Desfavoráveis
 
 | Situação                      | Por Quê                              |
 | ----------------------------- | ------------------------------------ |
@@ -145,7 +145,7 @@ Outro exemplo:
 
 ---
 
-## 🔄 Psicologia da Entrada
+## Psicologia da Entrada
 
 ### Armadilha: "Entrada Significa Compromisso"
 
@@ -155,7 +155,7 @@ Dar entrada grande não garante que você vai quitar o financiamento. Às vezes 
 
 ---
 
-## 📈 Casos Práticos
+## Casos Práticos
 
 ### Caso 1: Compra de Geladeira
 
@@ -180,7 +180,7 @@ Dar entrada grande não garante que você vai quitar o financiamento. Às vezes 
 
 ---
 
-## ⚠️ Evite Essas Armadilhas
+## Evite Essas Armadilhas
 
 | Armadilha                                    | O Risco                                      |
 | -------------------------------------------- | -------------------------------------------- |
@@ -191,7 +191,7 @@ Dar entrada grande não garante que você vai quitar o financiamento. Às vezes 
 
 ---
 
-## 🧮 Simulador Rápido
+## Simulador Rápido
 
 Antes de decidir, responda:
 
@@ -217,31 +217,31 @@ Antes de decidir, responda:
 
 ---
 
-## ✅ Decisão Final
+## Decisão Final
 
 **Use Entrada Grande Se:**
 
-- ✓ Juros > 2% ao mês
-- ✓ Fundo de emergência está ok
-- ✓ Renda é estável/crescente
-- ✓ Sobra dinheiro confortável depois
+- Juros > 2% ao mês
+- Fundo de emergência está ok
+- Renda é estável/crescente
+- Sobra dinheiro confortável depois
 
 **Não Use Entrada Grande Se:**
 
-- ✗ Juros < 1% ao mês
-- ✗ Fundo de emergência é fraco
-- ✗ Renda é incerta
-- ✗ Faria falta emergencialmente
+- Juros < 1% ao mês
+- Fundo de emergência é fraco
+- Renda é incerta
+- Faria falta emergencialmente
 
 ---
 
-## 📚 Ferramentas
+## Ferramentas
 
 [**Acesse a Calculadora Financiar vs À Vista**](/calculadoras/financiar-vs-vista) — Teste seus números reais com entrada variável.
 
 ---
 
-## 📞 Dúvidas Frequentes
+## Dúvidas Frequentes
 
 <details>
 <summary>É melhor dar entrada grande agora ou investir esse dinheiro?</summary>
