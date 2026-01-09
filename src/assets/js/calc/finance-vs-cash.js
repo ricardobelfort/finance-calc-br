@@ -218,26 +218,21 @@ class FinanceVsCashCalculator {
     if (precoFinanciado < precoVista) {
       return {
         type: 'success',
-        text: `🎉 Neste cenário, <strong>financiar é mais vantajoso</strong>! 
-        Você economiza <strong>${this.formatCurrency(Math.abs(diferenca))}</strong> 
-        (${Math.abs(percentual).toFixed(1)}% mais barato) ao financiar em ${data.parcelas} vezes com ${data.juros}% de juros ao mês.
+        text: `Neste cenário, <strong>financiar é mais vantajoso</strong>! Você economiza <strong>${this.formatCurrency(Math.abs(diferenca))}</strong> (${Math.abs(percentual).toFixed(1)}% mais barato) ao financiar em ${data.parcelas} vezes com ${data.juros}% de juros ao mês.
         <br><br>
         <em>Porém, lembre-se: isso pressupõe que você consegue pagar as parcelas mensais sem dificuldade.</em>`,
       };
     } else if (diferenca < precoVista * 0.05) {
       return {
         type: 'neutral',
-        text: `⚖️ Neste cenário, <strong>à vista e financiado são praticamente iguais</strong>. 
-        A diferença é de apenas <strong>${this.formatCurrency(diferenca)}</strong> (${percentual.toFixed(1)}% mais caro).
+        text: `Neste cenário, <strong>à vista e financiado são praticamente iguais</strong>. A diferença é de apenas <strong>${this.formatCurrency(diferenca)}</strong> (${percentual.toFixed(1)}% mais caro).
         <br><br>
         <em>Escolha conforme sua situação: se tem dinheiro guardado, pague à vista. Se precisa parcelar, não fará muita diferença.</em>`,
       };
     } else {
       return {
         type: 'warning',
-        text: `⚠️ Neste cenário, <strong>pagar à vista é mais vantajoso</strong>. 
-        Você economiza <strong>${this.formatCurrency(diferenca)}</strong> 
-        (${percentual.toFixed(1)}% mais caro ao financiar) se conseguir negociar o desconto à vista.
+        text: `Neste cenário, <strong>pagar à vista é mais vantajoso</strong>. Você economiza <strong>${this.formatCurrency(diferenca)}</strong> (${percentual.toFixed(1)}% mais caro ao financiar) se conseguir negociar o desconto à vista.
         <br><br>
         <em>Se não conseguir o desconto, a diferença pode ser menor. Sempre negocie com o vendedor!</em>`,
       };
@@ -358,7 +353,7 @@ class FinanceVsCashCalculator {
       </div>
 
       <details>
-        <summary>📊 Ver Tabela de Parcelas</summary>
+        <summary><i data-feather="list" class="icon-sm"></i> Ver Tabela de Parcelas</summary>
         ${tabelaHtml}
       </details>
     `;
