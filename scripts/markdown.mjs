@@ -36,10 +36,19 @@ export function parseMarkdown(content) {
   // Code blocks
   html = html.replace(/```([\s\S]*?)```/g, '<pre><code>$1</code></pre>');
 
-  // Lists
+  // Lists - ANTES de parágrafos!
   html = html.replace(/^\* (.*?)$/gm, '<li>$1</li>');
-  html = html.replace(/(<li>.*?<\/li>)/s, '<ul>$1</ul>');
   html = html.replace(/^\- (.*?)$/gm, '<li>$1</li>');
+  
+  // Agrupar sequências de <li> em <ul>, mantendo quebras de linha
+  html = html.split('\n\n').map(para => {
+    // Se contém <li>, envolver em <ul>
+    if (para.includes('<li>')) {
+      const wrapped = '<ul>' + para.replace(/\n/g, '') + '</ul>';
+      return wrapped;
+    }
+    return para;
+  }).join('\n\n');
 
   // Blockquotes
   html = html.replace(/^> (.*?)$/gm, '<blockquote>$1</blockquote>');
