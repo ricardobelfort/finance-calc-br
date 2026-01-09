@@ -1,0 +1,22 @@
+{
+  "name": "finance-calc-br",
+  "version": "1.0.0",
+  "description": "Calculadoras e guias de finanças pessoais - Brazil",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "npm run build && npx http-server public -p 3000 -g",
+    "start": "npx http-server public -p 3000 -g"
+  },
+  "keywords": [
+    "finance",
+    "calculator",
+    "brazil",
+    "personal-finance"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
