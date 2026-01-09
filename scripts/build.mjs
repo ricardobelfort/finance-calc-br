@@ -61,7 +61,7 @@ function ensureDirectoryExists(filePath) {
 function generateHTML(content, frontmatter, route) {
   const title = frontmatter.title || 'Finance Calc BR';
   const description = frontmatter.description || 'Calculadoras e guias de finanças pessoais';
-  const image = frontmatter.image || `${baseUrl}/og-image.jpg`;
+  const image = frontmatter.image || `${baseUrl}/assets/images/og-image.png`;
   const canonical = `${baseUrl}${route === '/' ? '' : route}`;
   const bodyClass = frontmatter.bodyClass || '';
 
