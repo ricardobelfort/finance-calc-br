@@ -352,7 +352,7 @@ details[open] > *:last-child {
 
 .calculator-controls {
   display: flex;
-  gap: var(--spacing-md);
+  gap: var(--spacing-lg);
   grid-column: 1 / -1;
 }
 
