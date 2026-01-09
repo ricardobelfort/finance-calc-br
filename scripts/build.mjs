@@ -13,7 +13,7 @@ const projectRoot = path.resolve(__dirname, '..');
 
 const contentDir = path.join(projectRoot, 'src/content');
 const publicDir = path.join(projectRoot, 'public');
-const baseUrl = 'https://finance-calc-br.vercel.app';
+const baseUrl = 'https://www.financecalcbr.com.br';
 
 // Criar public se não existir
 if (!fs.existsSync(publicDir)) {
