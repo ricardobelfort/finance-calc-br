@@ -94,8 +94,9 @@ function generateHTML(content, frontmatter, route) {
   <meta property="og:url" content="${canonical}" />
   <link rel="canonical" href="${canonical}" />
   <title>${escapeHtml(title)}</title>
-  <link rel="stylesheet" href="/assets/css/base.css" />
-  <link rel="stylesheet" href="/assets/css/components.css" />
+  <link rel="preload" href="/assets/css/base.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <link rel="preload" href="/assets/css/components.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript><link rel="stylesheet" href="/assets/css/base.css" /><link rel="stylesheet" href="/assets/css/components.css" /></noscript>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
