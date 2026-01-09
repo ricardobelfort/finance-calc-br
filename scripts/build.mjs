@@ -96,6 +96,7 @@ function generateHTML(content, frontmatter, route) {
   <title>${escapeHtml(title)}</title>
   <link rel="stylesheet" href="/assets/css/base.css" />
   <link rel="stylesheet" href="/assets/css/components.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.css" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -152,9 +153,9 @@ function generateHTML(content, frontmatter, route) {
     </div>
   </footer>
 
-  <script async src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"><\/script>
-  <script async src="/assets/js/app.js"><\/script>
-  <script async src="/assets/js/calc/finance-vs-cash.js"><\/script>
+  <script defer src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"><\/script>
+  <script defer src="/assets/js/app.js"><\/script>
+  <script defer src="/assets/js/calc/finance-vs-cash.js"><\/script>
 </body>
 </html>`;
 
