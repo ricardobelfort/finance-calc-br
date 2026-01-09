@@ -400,6 +400,10 @@ img {
   text-decoration: none;
 }
 
+.nav-menu > li {
+  margin-bottom: 0 !important;
+}
+
 main {
   flex: 1;
   width: 100%;
@@ -455,6 +459,10 @@ main {
 
 .footer-links a:hover {
   color: var(--color-primary);
+}
+
+.footer-links > li {
+  margin-bottom: 0 !important;
 }
 
 /* ========================================
