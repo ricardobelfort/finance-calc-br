@@ -643,6 +643,10 @@ hr {
     visibility: visible;
   }
 
+  .nav-menu > li {
+    margin-left: 20px;
+  }
+
   .nav-menu a {
     display: block;
     padding: var(--spacing-sm) 0;
