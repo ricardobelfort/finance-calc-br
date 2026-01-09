@@ -84,7 +84,7 @@ class FinanceVsCashCalculator {
           </div>
 
           <div class="calculator-controls">
-            <button type="submit" class="btn btn-primary btn-lg">Calcular</button>
+            <button type="submit" class="btn btn-primary">Calcular</button>
             <button type="reset" class="btn btn-secondary">Limpar</button>
           </div>
         </form>

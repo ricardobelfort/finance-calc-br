@@ -320,6 +320,17 @@ details[open] > *:last-child {
   }
 }
 
+.calculator-controls {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-lg);
+}
+
+.calculator-controls button {
+  min-height: 48px;
+}
+
 .calculator-group {
   display: flex;
   flex-direction: column;
@@ -342,11 +353,12 @@ details[open] > *:last-child {
 .calculator-controls {
   display: flex;
   gap: var(--spacing-md);
-  margin-bottom: var(--spacing-lg);
+  grid-column: 1 / -1;
 }
 
 .calculator-controls button {
   flex: 1;
+  min-height: 48px;
 }
 
 .calculator-results {
