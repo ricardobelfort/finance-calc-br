@@ -45,7 +45,19 @@ function getRouteFromPath(filePath) {
   } else if (category === 'hubs') {
     route = `/${name}`;
   } else if (category === 'artigos') {
-    route = `/financiamento/${name}`;
+    // Suporta clusters via prefixo no nome do arquivo:
+    // cartao-xxx -> /cartao/xxx
+    // emprestimos-xxx -> /emprestimos/xxx
+    // orcamento-xxx -> /orcamento/xxx
+    // investimentos-xxx -> /investimentos/xxx
+    const prefixes = ['cartao', 'emprestimos', 'orcamento', 'investimentos'];
+
+    const matched = prefixes.find((p) => name.startsWith(p + '-'));
+    if (matched) {
+      route = `/${matched}/${name.replace(matched + '-', '')}`;
+    } else {
+      route = `/financiamento/${name}`;
+    }
   }
 
   return route;
