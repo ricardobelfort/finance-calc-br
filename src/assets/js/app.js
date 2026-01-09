@@ -1,6 +1,7 @@
 /**
  * APP.JS - Funcionalidades Globais
  * - Tema claro/escuro
+ * - Menu hamburger responsivo
  * - Scroll to top
  */
 
@@ -35,6 +36,43 @@ function toggleTheme() {
     document.documentElement.classList.add(DARK_MODE_CLASS);
     localStorage.setItem(THEME_KEY, 'dark');
   }
+}
+
+// ==========================================
+// Menu Hamburger
+// ==========================================
+
+function initializeHamburger() {
+  const hamburger = document.getElementById('hamburger');
+  const navMenu = document.getElementById('nav-menu');
+  const navLinks = navMenu?.querySelectorAll('a');
+
+  if (!hamburger || !navMenu) return;
+
+  // Toggle menu ao clicar no hamburger
+  hamburger.addEventListener('click', () => {
+    hamburger.classList.toggle('active');
+    navMenu.classList.toggle('active');
+    hamburger.setAttribute('aria-expanded', hamburger.classList.contains('active'));
+  });
+
+  // Fechar menu ao clicar em um link
+  navLinks?.forEach(link => {
+    link.addEventListener('click', () => {
+      hamburger.classList.remove('active');
+      navMenu.classList.remove('active');
+      hamburger.setAttribute('aria-expanded', false);
+    });
+  });
+
+  // Fechar menu ao clicar fora
+  document.addEventListener('click', (e) => {
+    if (!hamburger.contains(e.target) && !navMenu.contains(e.target)) {
+      hamburger.classList.remove('active');
+      navMenu.classList.remove('active');
+      hamburger.setAttribute('aria-expanded', false);
+    }
+  });
 }
 
 // ==========================================
@@ -106,42 +144,15 @@ window.formatPercentage = formatPercentage;
 
 document.addEventListener('DOMContentLoaded', () => {
   initializeTheme();
+  initializeHamburger();
   initializeScrollToTop();
 
-  // Criar botão de tema no header se não existir
-  if (!document.querySelector('.theme-toggle')) {
-    const themeToggle = document.createElement('button');
-    themeToggle.className = 'theme-toggle';
-    themeToggle.setAttribute('aria-label', 'Alternar tema');
-    const isDark = document.documentElement.classList.contains(DARK_MODE_CLASS);
-    themeToggle.innerHTML = isDark ? '<i data-feather="sun"></i>' : '<i data-feather="moon"></i>';
-    
+  // Adicionar event listener ao botão de tema
+  const themeToggle = document.getElementById('theme-toggle');
+  if (themeToggle) {
     themeToggle.addEventListener('click', () => {
       toggleTheme();
-      const isDarkNow = document.documentElement.classList.contains(DARK_MODE_CLASS);
-      themeToggle.innerHTML = isDarkNow ? '<i data-feather="sun"></i>' : '<i data-feather="moon"></i>';
-      // Renderizar novamente o ícone
-      setTimeout(() => {
-        if (window.feather) {
-          window.feather.replace({ class: 'icon' });
-        }
-      }, 0);
     });
-
-    // Adicionar ao nav-container (header) em vez do body
-    const navContainer = document.querySelector('.nav-container');
-    if (navContainer) {
-      navContainer.appendChild(themeToggle);
-    } else {
-      document.body.appendChild(themeToggle);
-    }
-    
-    // Renderizar ícone inicial
-    setTimeout(() => {
-      if (window.feather) {
-        window.feather.replace({ class: 'icon' });
-      }
-    }, 0);
   }
 });
 

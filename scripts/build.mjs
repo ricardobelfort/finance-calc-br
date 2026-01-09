@@ -136,7 +136,27 @@ function generateHTML(content, frontmatter, route) {
     <nav class="navbar">
       <div class="nav-container">
         <a href="/" class="logo"><img src="/assets/images/logo.svg" alt="Finance Calc BR" class="logo-img" /> Finance Calc BR</a>
-        <ul class="nav-menu">
+        <div class="nav-controls">
+          <button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema">
+            <svg class="theme-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+          </button>
+          <button class="hamburger" id="hamburger" aria-label="Abrir menu" aria-expanded="false">
+            <span class="hamburger-line"></span>
+            <span class="hamburger-line"></span>
+            <span class="hamburger-line"></span>
+          </button>
+        </div>
+        <ul class="nav-menu" id="nav-menu">
           <li><a href="/">Home</a></li>
           <li><a href="/calculadoras/financiar-vs-vista">Calculadoras</a></li>
           <li><a href="/financiamento">Guias</a></li>
