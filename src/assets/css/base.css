@@ -376,6 +376,12 @@ img {
   color: var(--color-primary-dark);
 }
 
+.logo-img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
 .icon-logo {
   width: 28px;
   height: 28px;

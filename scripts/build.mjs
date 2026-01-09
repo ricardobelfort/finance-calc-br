@@ -93,6 +93,9 @@ function generateHTML(content, frontmatter, route) {
   <meta property="og:image" content="${image}" />
   <meta property="og:url" content="${canonical}" />
   <link rel="canonical" href="${canonical}" />
+  <link rel="icon" type="image/svg+xml" href="/assets/images/logo.svg" />
+  <link rel="shortcut icon" href="/assets/images/logo.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="/assets/images/logo.svg" />
   <title>${escapeHtml(title)}</title>
   <link rel="stylesheet" href="/assets/css/base.css" />
   <link rel="stylesheet" href="/assets/css/components.css" />
@@ -111,7 +114,7 @@ function generateHTML(content, frontmatter, route) {
   <header class="site-header">
     <nav class="navbar">
       <div class="nav-container">
-        <a href="/" class="logo"><i data-feather="trending-up" class="icon-logo"></i> Finance Calc BR</a>
+        <a href="/" class="logo"><img src="/assets/images/logo.svg" alt="Finance Calc BR" class="logo-img" /> Finance Calc BR</a>
         <ul class="nav-menu">
           <li><a href="/">Home</a></li>
           <li><a href="/calculadoras/financiar-vs-vista">Calculadoras</a></li>
@@ -264,6 +267,10 @@ copyAssets(
 copyAssets(
   path.join(projectRoot, 'src/assets/js'),
   path.join(publicDir, 'assets/js'),
+);
+copyAssets(
+  path.join(projectRoot, 'src/assets/images'),
+  path.join(publicDir, 'assets/images'),
 );
 
 console.log('\n✓ Build concluído com sucesso!');
