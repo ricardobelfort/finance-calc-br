@@ -86,6 +86,7 @@ Pega empréstimo, paga cartão, paga empréstimo em parcelas.
 - **Total pago:** R$12.208
 
 **Se continuasse cartão:**
+
 - Mesma dívida em 24 meses teria aumentado para **~R$40.000+**
 - Economia: ~R$28.000
 
@@ -104,6 +105,7 @@ Ligue para o banco. Passe para "parcelamento comum".
 "Tenho R$15.000 em rotativo. Quero converter em parcelamento."
 
 Banco oferece:
+
 - Prazo: 12-24 meses
 - Juros: 5-8% ao mês (vs 12% do rotativo)
 - Parcela fixa
@@ -144,6 +146,7 @@ Quando atrasa meses, banca oferece programas:
 ### Programas Comuns
 
 **Plano de Recuperação:**
+
 - Reduz juros significativamente
 - Parcelas menores
 - Prazo estendido (até 36 meses)
@@ -231,6 +234,7 @@ Some tudo: rotativo + parcelado + tudo.
 ### Passo 5: Reconstrua
 
 Após sair da dívida:
+
 - Mantenha cartão, mas pague tudo todo mês
 - Crie fundo de emergência (3 meses)
 - Só depois invista

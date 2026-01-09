@@ -54,6 +54,7 @@ Compare com cartão (144% ao ano) e empréstimo pessoal (36% ao ano).
 - Cartão: 12% ao mês (144%/ano)
 
 Simulação R$10.000:
+
 - Consignado (24 meses): Juros ~R$2.500
 - Pessoal (24 meses): Juros ~R$4.500
 - Cartão: Juros ~R$40.000+ (em rotativo)
@@ -197,11 +198,11 @@ Leia tudo antes de assinar.
 
 ## Comparação: Consignado vs Pessoal vs Cartão
 
-| Tipo | Taxa | Prazo | Aprovação | Para Quem |
-|------|------|-------|-----------|----------|
-| Consignado | 2% | 12-84 meses | Horas | Servidor/INSS |
-| Pessoal | 3.5% | 12-60 meses | 1-2 dias | Qualquer um |
-| Cartão | 12% | Variável | Instantâneo | Qualquer um |
+| Tipo       | Taxa | Prazo       | Aprovação   | Para Quem     |
+| ---------- | ---- | ----------- | ----------- | ------------- |
+| Consignado | 2%   | 12-84 meses | Horas       | Servidor/INSS |
+| Pessoal    | 3.5% | 12-60 meses | 1-2 dias    | Qualquer um   |
+| Cartão     | 12%  | Variável    | Instantâneo | Qualquer um   |
 
 ---
 

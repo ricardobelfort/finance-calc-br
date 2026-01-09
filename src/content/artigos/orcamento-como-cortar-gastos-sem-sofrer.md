@@ -55,6 +55,7 @@ Isso é vazamento invisível.
 ### Como Encontrar
 
 Abre app do banco, filtra por:
+
 - "Subscrição"
 - "Recurring" (recorrente)
 - "Assinatura"
@@ -154,6 +155,7 @@ Não é cancelar, é otimizar.
 80% dos cortes vêm de 20% dos gastos.
 
 Foco em:
+
 1. Aluguel (maior)
 2. Carro (segundo maior)
 3. Financiamento/Dívida (terceiro)
@@ -171,6 +173,7 @@ Não é cancelar Netflix.
 ### Passo 1 (Hoje): Lista de Gasto
 
 Coloca aqui:
+
 - Aluguel
 - Carro
 - Streaming

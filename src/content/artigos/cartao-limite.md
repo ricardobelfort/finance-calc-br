@@ -147,10 +147,12 @@ Deixa R$2.500 como colchão de emergência.
 ### Como Bancos Veem Você
 
 - **Bom pagador:** Paga fatura inteira em dia
+
   - Resultado: Limite aumenta
   - Significado REAL: Banco quer te vender mais dívida
 
 - **Rotativista:** Deixa girar
+
   - Resultado: Limite cai
   - Significado REAL: Banco tem risco contigo
 

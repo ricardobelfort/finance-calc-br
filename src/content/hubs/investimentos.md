@@ -102,14 +102,17 @@ A rentabilidade que você acha que ganhou pode ter impostos escondidos.
 ## Onde Aplicar (Segurança em Primeiro Lugar)
 
 **100% Seguro (FGC até R$250k por instituição):**
+
 - Poupança
 - CDB em banco grande
 - Tesouro Direto
 
 **Muito Seguro:**
+
 - Fundos de Renda Fixa (com rating)
 
 **Cuidado (pesquisar antes):**
+
 - Ações
 - Criptomoedas
 - Forex
@@ -128,8 +131,8 @@ A rentabilidade que você acha que ganhou pode ter impostos escondidos.
 
 ## Links Relacionados
 
-- [Guia de Orçamento](/orcamento) *(descubra onde tirar os 20% para investir)*
-- [Guia de Financiamento](/financiamento) *(juros do lado ruim; aqui você fica no lado certo)*
-- [Guia de Cartão de Crédito](/cartao) *(evite dívida para poder investir)*
+- [Guia de Orçamento](/orcamento) _(descubra onde tirar os 20% para investir)_
+- [Guia de Financiamento](/financiamento) _(juros do lado ruim; aqui você fica no lado certo)_
+- [Guia de Cartão de Crédito](/cartao) _(evite dívida para poder investir)_
 
 Próximo passo: Abra uma conta no Tesouro Direto (gratuito) e faça seu primeiro investimento. Mesmo que pequeno, comece HOJE.

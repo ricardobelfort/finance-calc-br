@@ -60,12 +60,14 @@ Refinancia para empréstimo pessoal (3% ao mês).
 ### Calcula Ganho
 
 **Cenário 1: Sem Refinanciar**
+
 - Paga R$500/mês
 - Mês 1: Paga R$500, deve R$10.100 (juros comeram ganho)
 - Mês 20: Ainda deve R$10.000+
 - Nunca sai
 
 **Cenário 2: Refinancia**
+
 - Empréstimo de R$10.000 em 24x
 - Parcela: ~R$450/mês
 - Juros totais: ~R$2.800
@@ -78,10 +80,12 @@ Refinancia para empréstimo pessoal (3% ao mês).
 ## Extensão de Prazo: O Risco
 
 Você tem:
+
 - Empréstimo de R$15.000 em 24 meses
 - Parcela: R$700/mês
 
 Refinancia para:
+
 - Empréstimo de R$15.000 em 48 meses
 - Parcela: R$380/mês
 
@@ -107,6 +111,7 @@ Você está em 3-4 lugares e ninguém consegue processar.
 Refinancia tudo em 1 empréstimo.
 
 Parcela é:
+
 - Menor? Ótimo
 - Maior? Cuidado, vira apertado
 
@@ -155,6 +160,7 @@ Resultado: Continua devendo, agora mais.
 ### Cenário 3: Refinanciar Quando Estava Melhorando
 
 Você estava:
+
 - Pagando consignado regularmente
 - Reduzindo dívida
 - Progredindo
@@ -186,13 +192,13 @@ Banco quer sua dívida. Tem poder aqui.
 
 ## Comparação Rápida
 
-| Situação | Refinanciar? |
-|----------|-------------|
-| Consolidar 3 dívidas | Sim |
-| Sair de rotativo | Sim |
-| Reduzir taxa significativamente | Sim |
-| Reduzir parcela em 20% mas pagar 50% mais juros total | Não |
-| Apenas deixar de apertar agora | Não, resolve diferente |
+| Situação                                              | Refinanciar?           |
+| ----------------------------------------------------- | ---------------------- |
+| Consolidar 3 dívidas                                  | Sim                    |
+| Sair de rotativo                                      | Sim                    |
+| Reduzir taxa significativamente                       | Sim                    |
+| Reduzir parcela em 20% mas pagar 50% mais juros total | Não                    |
+| Apenas deixar de apertar agora                        | Não, resolve diferente |
 
 ---
 

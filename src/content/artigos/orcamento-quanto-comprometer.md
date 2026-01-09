@@ -50,6 +50,7 @@ Limite: R$900/mês em despesas fixas
 ### Segurança Financeira
 
 Se gasta 30% em fixas, sobra 70% para:
+
 - Alimentação
 - Outras despesas variáveis
 - Emergência
@@ -119,9 +120,9 @@ Apertadíssimo. Uma emergência te quebra.
 
 ## Calculadora Rápida
 
-1. **Sua renda líquida mensal:** R$____
-2. **Multiplica por 30%:** R$____ (seu limite)
-3. **Some todas fixas:** R$____ (seu real)
+1. **Sua renda líquida mensal:** R$\_\_\_\_
+2. **Multiplica por 30%:** R$\_\_\_\_ (seu limite)
+3. **Some todas fixas:** R$\_\_\_\_ (seu real)
 4. **Compare:**
    - Real < 20% = Excelente
    - 20-30% = Bom

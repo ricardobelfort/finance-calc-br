@@ -152,11 +152,13 @@ Você decide quando.
 Depende do contrato:
 
 **Tipo A: Sem liquidez diária**
+
 - Vence em 2 anos
 - Você só saca após 2 anos
 - Se sacar antes, perde ganho ou paga multa
 
 **Tipo B: Com liquidez diária**
+
 - Pode sacar quando quer
 - Mas se sacar antes, ganha menos
 - Muitos CDBs permitem isso
@@ -184,11 +186,13 @@ Depende do contrato:
 ## Simulação Realista: R$3.000/Mês por 5 Anos
 
 **Poupança (0.5% ao ano):**
+
 - Contribuição total: R$3.000 × 60 = R$180.000
 - Ganhos em juros: ~R$2.200
 - **Total:** R$182.200
 
 **CDB (5% ao ano):**
+
 - Contribuição total: R$3.000 × 60 = R$180.000
 - Ganhos em juros: ~R$22.000
 - **Total:** R$202.000

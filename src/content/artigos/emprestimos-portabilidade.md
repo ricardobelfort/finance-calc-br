@@ -34,10 +34,12 @@ Pode transferir? **Sim. Isso é portabilidade.**
 **Nova Taxa:** 2.8%/mês em 24 parcelas
 
 **Taxa Atual:**
+
 - Juros: ~R$3.480
 - Total pago: R$13.480
 
 **Nova Taxa:**
+
 - Juros: ~R$2.640
 - Total pago: R$12.640
 
@@ -66,6 +68,7 @@ Você pede: "Quero fazer portabilidade do empréstimo do Banco A para vocês."
 ### Passo 4: Documentos
 
 Banco B pede alguns documentos:
+
 - Contrato do empréstimo atual
 - Comprovante de renda
 - Documentos pessoais
@@ -125,6 +128,7 @@ Se taxa cai 0.1%, economiza ~R$100 total.
 Se taxa cai 0.5%, economiza ~R$500 total.
 
 Pela lógica:
+
 - 0.1% diferença: Não vale
 - 0.5% diferença: Vale
 - 1% diferença: Muito bom
@@ -157,6 +161,7 @@ Pela lógica:
 Procura o PDF ou pega no app.
 
 Anota:
+
 - Saldo devedor
 - Taxa
 - Parcelas restantes
@@ -165,6 +170,7 @@ Anota:
 ### Passo 2: Pesquisa Alternativas
 
 Entra em 3-4 apps/sites:
+
 - Banco Inter
 - Nubank
 - Bradesco
@@ -256,11 +262,11 @@ R: Sim. Mas faz sentido só se economizar > R$300 total.
 
 ## Comparação: Sem vs Com Portabilidade
 
-| Cenário | Banco Inicial | Banco Novo | Economia |
-|---------|--------------|-----------|----------|
-| Sem mudança | 3.5%/mês | N/A | R$0 |
-| Com portabilidade (2.8%) | 3.5% | 2.8% | R$700 |
-| Esperar acabar contrato | 3.5% | N/A | R$0 |
+| Cenário                  | Banco Inicial | Banco Novo | Economia |
+| ------------------------ | ------------- | ---------- | -------- |
+| Sem mudança              | 3.5%/mês      | N/A        | R$0      |
+| Com portabilidade (2.8%) | 3.5%          | 2.8%       | R$700    |
+| Esperar acabar contrato  | 3.5%          | N/A        | R$0      |
 
 ---
 

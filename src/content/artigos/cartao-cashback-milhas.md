@@ -22,6 +22,7 @@ Compra no cartão: R$1.000
 Cashback 1%: R$10 volta para você.
 
 Pode ser:
+
 - **Crédito na fatura** (desconta no cartão)
 - **Depósito em conta** (cai no banco)
 - **Pontos** (resgata depois)
@@ -47,11 +48,13 @@ Cartão acumula milhas automaticamente.
 ### Cashback
 
 **Vantagens:**
+
 - Dinheiro de verdade
 - Usa imediatamente
 - Sem expiração (geralmente)
 
 **Desvantagens:**
+
 - Percentual baixo (0.5-2%)
 - Menos emocionante
 
@@ -60,10 +63,12 @@ Cartão acumula milhas automaticamente.
 ### Milhas
 
 **Vantagens:**
+
 - Valor potencial alto (1 mila = R$0.05 a R$0.10)
 - Viagens grátis são emocionantes
 
 **Desvantagens:**
+
 - Expiram (2-3 anos)
 - Dificuldade em resgatar
 - Passagens caras em milhas em datas populares
@@ -162,12 +167,12 @@ Nunca gaste dinheiro só para ganhar cashback.
 
 ### Cenário: Mesmos Gastos
 
-| Tipo | Gasto Mensal | Cashback % | Ganho/Mês |
-|------|--------|-----------|-----------|
-| Sem | R$2.000 | 0% | R$0 |
-| Básico | R$2.000 | 0.5% | R$10 |
-| Gold | R$2.000 | 1% | R$20 |
-| Premium | R$2.000 | 2% | R$40 |
+| Tipo    | Gasto Mensal | Cashback % | Ganho/Mês |
+| ------- | ------------ | ---------- | --------- |
+| Sem     | R$2.000      | 0%         | R$0       |
+| Básico  | R$2.000      | 0.5%       | R$10      |
+| Gold    | R$2.000      | 1%         | R$20      |
+| Premium | R$2.000      | 2%         | R$40      |
 
 **Diferença anual:** R$0 vs R$120 vs R$240 vs R$480
 

@@ -110,8 +110,8 @@ O método verdadeiro: corte inteligente, não radical.
 
 ## Links Relacionados
 
-- [Guia de Financiamento](/financiamento) *(como contas grandes encaixam no orçamento)*
-- [Guia de Investimentos](/investimentos) *(para onde vai os 20% extra)*
-- [Guia de Cartão de Crédito](/cartao) *(como rastrear gastos com cartão)*
+- [Guia de Financiamento](/financiamento) _(como contas grandes encaixam no orçamento)_
+- [Guia de Investimentos](/investimentos) _(para onde vai os 20% extra)_
+- [Guia de Cartão de Crédito](/cartao) _(como rastrear gastos com cartão)_
 
 Próximo passo: Abra sua planilha (ou papel) e comece a rastrear. Conhecimento sem ação = zero resultados.

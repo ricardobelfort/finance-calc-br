@@ -36,6 +36,7 @@ Reserva = 3-6 meses de despesa em poupança/CDB.
 ### Por Que Importa
 
 Se parcela sem reserva e quebra algo:
+
 - Vira despesa + parcelamento = dívida dupla
 - Ou cancela parcelamento = piora situação
 
@@ -52,6 +53,7 @@ Primeiro constrói reserva, depois parcela.
 ## Pergunta 3: Qual É a Taxa Exata de Juros?
 
 Loja/banco precisa informar:
+
 - "Sem juros"
 - "3% ao mês"
 - "0.5% ao mês"
@@ -71,6 +73,7 @@ Loja tem que informar. Exija.
 ## Pergunta 4: Comparei Com Outras Opções?
 
 Antes de parcelar, comparou:
+
 - Preço em outro lugar?
 - Outra forma de pagamento?
 - Esperar Black Friday?

@@ -88,6 +88,7 @@ A = P(1 + r/n)^{nt}
 $$
 
 Onde:
+
 - A = Valor final
 - P = Principal (inicial)
 - r = Taxa (anual)
@@ -198,13 +199,13 @@ R: Se investe em taxa acima de inflação, ganha real. CDB com 4% e inflação 3
 
 ## Comparação: Investir vs Não Investir
 
-| Opção | R$100/mês | 30 Anos | Resultado |
-|-------|-----------|---------|-----------|
-| Embaixo do colchão | 100 × 360 = R$36k | 0% | R$36.000 |
-| Poupança | 100 × 360 | 0.5%/ano | R$38.500 |
-| CDB | 100 × 360 | 5%/ano | R$78.000 |
-| Tesouro | 100 × 360 | 7%/ano | R$103.000 |
-| Ações | 100 × 360 | 10%/ano | R$230.000 |
+| Opção              | R$100/mês         | 30 Anos  | Resultado |
+| ------------------ | ----------------- | -------- | --------- |
+| Embaixo do colchão | 100 × 360 = R$36k | 0%       | R$36.000  |
+| Poupança           | 100 × 360         | 0.5%/ano | R$38.500  |
+| CDB                | 100 × 360         | 5%/ano   | R$78.000  |
+| Tesouro            | 100 × 360         | 7%/ano   | R$103.000 |
+| Ações              | 100 × 360         | 10%/ano  | R$230.000 |
 
 ---
 

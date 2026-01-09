@@ -31,7 +31,7 @@ Este hub reúne **tudo que você precisa saber** sobre cartão de crédito para 
 
 ### 1. **[Rotativo: Como Funciona e Por Que Evitar](/cartao/rotativo)**
 
-O maior vilão do cartão de crédito. 
+O maior vilão do cartão de crédito.
 
 - O que é rotativo?
 - Por que os juros são tão altos?
@@ -129,7 +129,7 @@ Antes de fazer qualquer parcelamento, responda essas perguntas.
 ## Links Relacionados
 
 - [Guia de Financiamento](/financiamento)
-- [Como Sair de Dívida](/financiamento/divida-bola-de-neve) *(parecido com cartão)*
-- [Orçamento Pessoal](/orcamento) *(para incluir gastos com cartão)*
+- [Como Sair de Dívida](/financiamento/divida-bola-de-neve) _(parecido com cartão)_
+- [Orçamento Pessoal](/orcamento) _(para incluir gastos com cartão)_
 
 Próximo passo: Leia o primeiro artigo e descubra como usar cartão sem medo de dívida!

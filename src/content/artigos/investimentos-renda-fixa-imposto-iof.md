@@ -129,12 +129,12 @@ Quanto você realmente recebe após imposto: ~4%
 
 ## Comparação: Qual Paga Menos Imposto?
 
-| Tipo | Ganho Sem Imposto | Imposto | Ganho Real |
-|------|-----------------|--------|-----------|
-| Poupança 1 ano | 0.5% | 20% | 0.4% |
-| CDB 6 meses | 2.5% | 20% | 2% |
-| Tesouro 2 anos | 6% | 15% | 5.1% |
-| Tesouro 5+ anos | 6% | 15% | 5.1% |
+| Tipo            | Ganho Sem Imposto | Imposto | Ganho Real |
+| --------------- | ----------------- | ------- | ---------- |
+| Poupança 1 ano  | 0.5%              | 20%     | 0.4%       |
+| CDB 6 meses     | 2.5%              | 20%     | 2%         |
+| Tesouro 2 anos  | 6%                | 15%     | 5.1%       |
+| Tesouro 5+ anos | 6%                | 15%     | 5.1%       |
 
 Quanto MAIS TEMPO deixa, MENOS imposto paga (proporcionalmente).
 

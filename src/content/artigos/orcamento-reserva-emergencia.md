@@ -20,12 +20,14 @@ Como se preparar sem ir quebrado?
 É dinheiro **guardado** que você **NÃO TOCA** exceto emergência.
 
 Tipos de emergência:
+
 - Desemprego
 - Doença/Cirurgia
 - Carro/Casa quebra
 - Morte na família
 
 Tipos que NÃO são emergência:
+
 - Vontade de viajar
 - Promoção na loja
 - "Só dessa vez"
@@ -41,6 +43,7 @@ Tipos que NÃO são emergência:
 Despesa mensal = Aluguel + comida + contas + tudo.
 
 Exemplo:
+
 - Despesa: R$2.000/mês
 - Reserva para 3 meses = R$6.000
 - Reserva para 6 meses = R$12.000
@@ -154,11 +157,13 @@ Se pode guardar R$500/mês: 12 meses (1 ano)
 ### Opção 1: Poupança
 
 Pros:
+
 - Acessível
 - Rápido sacar (1-2 dias)
 - FDIC protegido até R$250k
 
 Contras:
+
 - Rende muito pouco (0.5%/ano)
 - Inflação devora
 
@@ -167,11 +172,13 @@ Contras:
 ### Opção 2: CDB
 
 Pros:
+
 - Rende melhor (4-6%/ano)
 - Rápido sacar (1-2 dias, alguns)
 - FDIC protegido
 
 Contras:
+
 - Precisa de mínimo inicial
 - Poucos conseguem sacar em 1 dia
 
@@ -182,10 +189,12 @@ Contras:
 Alguns bancos oferecem conta que rende.
 
 Pros:
+
 - Seguro
 - Disponível
 
 Contras:
+
 - Rende muito pouco
 
 ### Opção 4: Investimento Mais Agressivo (Não Recomendado)

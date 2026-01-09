@@ -119,8 +119,8 @@ Múltiplos empréstimos acumulados? Como organizar a fuga.
 
 ## Links Relacionados
 
-- [Guia de Cartão de Crédito](/cartao) *(tipo diferente de crédito)*
-- [Guia de Financiamento](/financiamento) *(longo prazo, bem maior)*
-- [Orçamento Pessoal](/orcamento) *(planeje para evitar empréstimos)*
+- [Guia de Cartão de Crédito](/cartao) _(tipo diferente de crédito)_
+- [Guia de Financiamento](/financiamento) _(longo prazo, bem maior)_
+- [Orçamento Pessoal](/orcamento) _(planeje para evitar empréstimos)_
 
 Próximo passo: Defina qual tipo de empréstimo você realmente precisa e aprenda como negociar as melhores condições!

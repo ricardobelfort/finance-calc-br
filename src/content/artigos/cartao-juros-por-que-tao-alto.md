@@ -24,6 +24,7 @@ Dados reais: 8-12% das pessoas em cartão **não conseguem pagar**.
 O banco **sabe disso**.
 
 Para cada R$100 de crédito ofertado:
+
 - ~R$8-12 vira dívida inadimplente
 - Banco não recupera
 
@@ -65,12 +66,14 @@ Cartão é ofertado por ~15 bancos grandes.
 Não é mercado super competitivo.
 
 Bancos não competem em juros porque:
+
 - Saem do lucro
 - Clientes mudam de medo, não por juros baixos
 
 ### Fator 2: Market Power
 
 Bancos sabem que:
+
 - Você está em dificuldade quando usa rotativo
 - Você tem poucas opções
 - Você paga juros alto por falta de alternativa
@@ -128,12 +131,14 @@ Não existe limite legal de juros para cartão.
 Banco cobra o máximo que consegue.
 
 Comparação:
+
 - **Cheque especial:** Regulado. Máximo ~3%/mês. (Ainda alto)
 - **Cartão:** Não regulado. Máximo... o que o mercado aguenta (12%+)
 
 ### Por Que Não É Regulado?
 
 Razões políticas/econômicas:
+
 - Lobby dos bancos (são poderosos)
 - "Lente regulatória" do governo
 - Dificuldade de regular sem mexer em sistema de crédito

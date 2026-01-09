@@ -8,6 +8,7 @@ description: "Excel, Google Sheets, Organizze, Guiabolso. Comparação das ferra
 Você precisa rastrear gastos.
 
 Opções:
+
 1. Excel / Google Sheets
 2. App especializado (Organizze, Guiabolso, etc)
 3. Papel e caneta
@@ -164,13 +165,13 @@ Ninguém realmente. Mas algumas pessoas fazem por ser tátil.
 
 ## Comparação Rápida
 
-| Ferramenta | Custo | Automático? | Celular? | Melhor Para |
-|-----------|-------|-----------|---------|-----------|
-| Google Sheets | Grátis | Não | Sim | Controlar tudo |
-| Organizze | Pago | Parcial | Sim | Interface boa |
-| Guiabolso | Grátis/Pago | Sim | Sim | Preguiçoso |
-| Nubank App | Grátis | Sim | Sim | Usuário Nubank |
-| Papel | Grátis | Não | N/A | Ninguém |
+| Ferramenta    | Custo       | Automático? | Celular? | Melhor Para    |
+| ------------- | ----------- | ----------- | -------- | -------------- |
+| Google Sheets | Grátis      | Não         | Sim      | Controlar tudo |
+| Organizze     | Pago        | Parcial     | Sim      | Interface boa  |
+| Guiabolso     | Grátis/Pago | Sim         | Sim      | Preguiçoso     |
+| Nubank App    | Grátis      | Sim         | Sim      | Usuário Nubank |
+| Papel         | Grátis      | Não         | N/A      | Ninguém        |
 
 ---
 

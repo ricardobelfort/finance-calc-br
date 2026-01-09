@@ -20,6 +20,7 @@ Dinheiro que você pega do banco para qualquer finalidade.
 Sem garantia. Sem colateral.
 
 Banco autoriza baseado em:
+
 - Score de crédito
 - Renda
 - Histórico
@@ -49,6 +50,7 @@ Banco autoriza baseado em:
 ### Passo 1: Escolher Banco
 
 Opções:
+
 - Banco tradicional (BB, CEF, Itaú, Bradesco)
 - Fintech (Inter, Nubank, Banco Original)
 - Cooperativa
@@ -83,6 +85,7 @@ Dinheiro em conta em 24 horas.
 ### Limite
 
 Depende de:
+
 - Renda
 - Score
 - Histórico com banco
@@ -118,6 +121,7 @@ Alguns bancos oferecem mais, mas cuidado com sobre-endividamento.
 ### Calculadora
 
 R$10.000 a 3% ao mês:
+
 - 12x: Parcela ~R$956, Juros ~R$1.472
 - 24x: Parcela ~R$523, Juros ~R$2.552
 - 36x: Parcela ~R$389, Juros ~R$4.004
@@ -131,11 +135,13 @@ R$10.000 a 3% ao mês:
 ### Comparação Rápida
 
 1. **Fintechs:** Geralmente mais baratas
+
    - Banco Inter: ~1.5-2%
    - Nubank: ~1.5-2.5%
    - Banco Original: ~2-2.5%
 
 2. **Tradicionais:** Um pouco mais caras
+
    - CEF: ~2.5-3%
    - Itaú: ~2.5-4%
    - Bradesco: ~2.5-4%
@@ -160,23 +166,29 @@ R$10.000 a 3% ao mês:
 ### Bom Motivo
 
 ✓ Quitar dívida de cartão em rotativo
+
 - De 12%/mês para 3%/mês = economia gigante
 
 ✓ Compra necessária (geladeira quebrada)
+
 - Sem pânico, prazo controlado
 
 ✓ Problema de fluxo de caixa
+
 - Precisa de dinheiro agora
 
 ### Mau Motivo
 
 ✗ Viagem de luxo
+
 - É consumo, não investimento
 
 ✗ Compra por impulso
+
 - Vai se arrepender depois
 
 ✗ Ajudar terceiro
+
 - Você fica responsável
 
 ---
@@ -216,6 +228,7 @@ Verifica na assinatura.
 Se tem dinheiro extra, antecipar economiza juros.
 
 Exemplo:
+
 - Empréstimo: R$10.000
 - Parcelas restantes: 20x
 - Paga tudo agora: Economiza ~R$600 em juros
@@ -229,6 +242,7 @@ Sim, vale a pena.
 Paga religiosamente e surgiu dificuldade?
 
 Ligue para o banco e peça:
+
 - Redução de taxa
 - Aumento de prazo
 - Pausa temporária

@@ -31,6 +31,7 @@ Qual escolher?
 ### Cartão Gold (R$100/ano)
 
 Teoricamente:
+
 - Cashback um pouco maior (1% vs 0.5%)
 - Atendimento prioritário
 - Seguro de viagem básico
@@ -39,6 +40,7 @@ Teoricamente:
 ### Cartão Platinum (R$300/ano)
 
 Teoricamente:
+
 - Cashback 2%
 - Atendimento VIP 24h
 - Seguro de viagem com cobertura melhor
@@ -48,6 +50,7 @@ Teoricamente:
 ### Cartão Black (R$1.000+/ano)
 
 Teoricamente:
+
 - Cashback 5%+
 - Concierge pessoal
 - Descontos em lojas premium
@@ -145,6 +148,7 @@ Ligue na central de atendimento:
 "Olá, tenho um cartão gold. Quero cancelar por conta da anuidade."
 
 Na maioria das vezes o banco oferece:
+
 - 1 ano isento (tente de novo próximo ano)
 - Redução de anuidade (R$50 em vez de R$100)
 - Upgrade para tier menor sem anuidade
@@ -190,6 +194,7 @@ Cashback variável mas sem cobrar taxa.
 ### Opção 3: Negociar Anuidade Zero
 
 Especialmente se você tem:
+
 - Renda alta (R$10k+/mês)
 - Histórico de 3+ anos com banco
 - Múltiplos produtos (conta, investimento)
@@ -244,6 +249,6 @@ R: Sim. Geralmente vem como "Anuidade" na fatura.
 
 - [Cashback e Milhas: Como Ganhar](/cartao/cashback-milhas)
 - [Como Escolher Cartão de Crédito](/cartao)
-- [Orçamento Pessoal](/orcamento) *(inclua potencial anuidade)*
+- [Orçamento Pessoal](/orcamento) _(inclua potencial anuidade)_
 
 **Próximo passo:** Se paga anuidade, ligue para seu banco e peça isenção. Se disserem não, troque para outro banco. Simples assim.

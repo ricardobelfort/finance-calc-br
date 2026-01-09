@@ -71,15 +71,15 @@ Que vira aposentadoria decente.
 
 **Renda:** R$3.000/mês
 
-| Categoria | Limite | Exemplos |
-|-----------|--------|----------|
-| **50% Necessidades** R$1.500 | Aluguel R$800 | Alimentação R$300 |
-| | Condomínio R$200 | Energia R$80 |
-| | Internet R$60 | Transporte R$60 |
-| **30% Desejos** R$900 | Cinema R$50 | Streaming R$50 |
-| | Restaurante R$200 | Roupas R$100 |
-| | Academia R$100 | Outros R$400 |
-| **20% Investimento** R$600 | Poupança R$400 | CDB R$200 |
+| Categoria                    | Limite            | Exemplos          |
+| ---------------------------- | ----------------- | ----------------- |
+| **50% Necessidades** R$1.500 | Aluguel R$800     | Alimentação R$300 |
+|                              | Condomínio R$200  | Energia R$80      |
+|                              | Internet R$60     | Transporte R$60   |
+| **30% Desejos** R$900        | Cinema R$50       | Streaming R$50    |
+|                              | Restaurante R$200 | Roupas R$100      |
+|                              | Academia R$100    | Outros R$400      |
+| **20% Investimento** R$600   | Poupança R$400    | CDB R$200         |
 
 ---
 
@@ -146,6 +146,7 @@ Isso é sua renda.
 Pega últimos 3 meses de extrato.
 
 Separa cada gasto:
+
 - Necessidade?
 - Desejo?
 - Investimento?
@@ -157,6 +158,7 @@ Quanto você **realmente** gasta em cada?
 ### Passo 4: Compara Com Regra 50-30-20
 
 Você gasta:
+
 - 45% necessidades? Bom, tá dentro.
 - 40% desejos? Muito. Precisa cortar.
 - 5% investimento? Pouco. Precisa aumentar.
@@ -225,7 +227,7 @@ R: 50-30-20 é guia, não regra absoluta. Adapta.
 
 R: 1 mês já vê padrão. 3 meses nota diferença real.
 
-**P: E se gastar mais que 100% (vai negativo)?
+\*\*P: E se gastar mais que 100% (vai negativo)?
 
 R: Não é sustentável. Ou aumenta renda ou corta gastos.
 

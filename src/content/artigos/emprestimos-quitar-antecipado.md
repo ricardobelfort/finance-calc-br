@@ -55,6 +55,7 @@ Se ia tirar de poupança/investimento: Cuidado.
 **Empréstimo:** 3%/mês = 36%/ano
 
 **Investimento você pode fazer:**
+
 - Poupança: 0.5%/ano (péssimo)
 - CDB: 4%/ano (ruim)
 - Tesouro: 5%/ano (ruim)
@@ -90,6 +91,7 @@ Alguns contratos cobram multa se quita antes do prazo.
 Geralmente ~1-2% do valor.
 
 **Efeito:**
+
 - Valor para quitar: R$10.000 + R$200 multa = R$10.200
 - Economia em juros: R$2.700
 - Net: Ainda economiza R$2.500
@@ -174,6 +176,7 @@ Tem R$15.000?
 - Mantém R$10.000 de reserva
 
 Resultado:
+
 - Dívida cai de R$10k para R$5k
 - Juros restantes caem pela metade
 - Mantém segurança
@@ -185,12 +188,15 @@ Resultado:
 Se apertado, mas consegue aumentar parcela:
 
 Em vez de:
+
 - 24 parcelas de R$455
 
 Faz:
+
 - 18 parcelas de R$550
 
 Resultado:
+
 - Acaba empréstimo 6 meses antes
 - Economiza ~6 meses de juros
 - Parcela cabe no orçamento
@@ -208,6 +214,7 @@ Responda:
 5. **Vai precisar dessa grana em 3 meses?** Sim/Não
 
 **Pontuação:**
+
 - 4+ "Sim": **Quita tudo**
 - 2-3 "Sim": **Quita parcial (50%)**
 - < 2 "Sim": **Não quita, mantém estrutura**

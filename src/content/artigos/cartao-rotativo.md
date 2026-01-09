@@ -70,6 +70,7 @@ Sem você ter gasto mais **nada novo**.
 ### Cenários Típicos
 
 **Cenário 1: O Imprevisto**
+
 - Carro quebra (R$2k)
 - Não tem reserva de emergência
 - Parcela no cartão
@@ -77,6 +78,7 @@ Sem você ter gasto mais **nada novo**.
 - Entra em rotativo
 
 **Cenário 2: A Ilusão do Limite**
+
 - Limite é R$5k
 - Acha que pode gastar R$5k por mês
 - Gasta R$4k, paga só R$2k
@@ -86,6 +88,7 @@ Sem você ter gasto mais **nada novo**.
 - Entra no rotativo
 
 **Cenário 3: O Mínimo Enganador**
+
 - Fatura: R$2.000
 - Mínimo: R$200 (10%)
 - Pensa: "Vou pagar o mínimo agora, seco depois"
@@ -111,6 +114,7 @@ Juros do rotativo: **96-180% ao ano**.
 Mesmo empréstimo pessoal é mais barato.
 
 **Como fazer:**
+
 1. Calcule quanto deve em rotativo
 2. Peça empréstimo pessoal nesse valor
 3. Pague o cartão com o empréstimo
@@ -200,6 +204,6 @@ R: Depende do plano. Empréstimo pessoal: em 1 mês. Parcelamento: até 24 meses
 
 - [Parcelamento vs Rotativo: Qual Escolher](/cartao/parcelamento-fatura)
 - [Como Sair da Dívida de Cartão](/cartao/como-sair)
-- [Guia de Empréstimos Pessoais](/emprestimos/pessoal) *(alternativa melhor)*
+- [Guia de Empréstimos Pessoais](/emprestimos/pessoal) _(alternativa melhor)_
 
 **Próximo passo:** Se está em rotativo, leia o artigo sobre "Como Sair da Dívida de Cartão" e escolha a opção que funciona para você. Ficar em rotativo é caro demais.

@@ -72,6 +72,7 @@ Atacar dívidas **com juros mais altos primeiro**.
 ### Como Funciona
 
 1. Lista todas as dívidas com taxas
+
    - Cartão rotativo: 12%/mês
    - Cheque especial: 10%/mês
    - Empréstimo pessoal: 3%/mês
@@ -103,6 +104,7 @@ Atacar dívidas **menores primeiro**.
 ### Como Funciona
 
 1. Ordena por valor (menor primeiro)
+
    - Cheque especial: R$500
    - Cartão 2: R$2.000
    - Cartão 1: R$3.000
@@ -182,6 +184,7 @@ Se está em atraso, banco oferece planos:
 ### Como Funciona
 
 Não reduz dívida, mas:
+
 - Você ganha mais
 - Sobra mais para pagar dívida
 - Dívida cai mais rápido
@@ -207,6 +210,7 @@ Dívida cai **2x mais rápido**.
 **Passo 1: Levanta todas as dívidas**
 
 Faz lista:
+
 - Cartão 1: R$3.000, 12%, R$300 juros
 - Cartão 2: R$1.500, 12%, R$150 juros
 - Empréstimo: R$5.000, 3%, R$125 juros

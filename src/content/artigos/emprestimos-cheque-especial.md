@@ -100,6 +100,7 @@ Sem perceber, deve R$3-5k.
 ### Aceitável
 
 ✓ **Emergência real de 1-2 dias**
+
 - Carro quebra, precisa de R$500 já
 - Fica -R$500 por 2 dias
 - Juros: ~R$5
@@ -144,6 +145,7 @@ Paga empréstimo em parcelas (muito menos juros).
 #### Estratégia C: Negociar Com Banco
 
 Ligue e peça:
+
 - "Quero tirar do especial"
 - "Pode oferecer parcelamento?"
 - Banco às vezes oferece juros menores para tirar do especial
@@ -192,12 +194,12 @@ Vai notificar. Você repõe logo.
 
 ## Comparação: Especial vs Outras Opções
 
-| Opção | Taxa | Prazo | Quando Usar |
-|-------|------|-------|-----------|
-| Especial | 12-15%/mês | Indefinido | Emergência 1-2 dias |
-| Pessoal | 3%/mês | 12-60 meses | Precisa médio/longo prazo |
-| Cartão | 12%/mês | Indefinido | Evitar sempre |
-| Consignado | 2%/mês | 12-84 meses | Se servidor (melhor) |
+| Opção      | Taxa       | Prazo       | Quando Usar               |
+| ---------- | ---------- | ----------- | ------------------------- |
+| Especial   | 12-15%/mês | Indefinido  | Emergência 1-2 dias       |
+| Pessoal    | 3%/mês     | 12-60 meses | Precisa médio/longo prazo |
+| Cartão     | 12%/mês    | Indefinido  | Evitar sempre             |
+| Consignado | 2%/mês     | 12-84 meses | Se servidor (melhor)      |
 
 ---
 

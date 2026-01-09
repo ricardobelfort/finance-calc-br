@@ -30,21 +30,23 @@ O mínimo é calculado para **nunca liquidar sua dívida**, apenas manter você 
 ## Exemplo Assustador: Quanto Tempo Leva Mesmo?
 
 **Sua situação:**
+
 - Fatura: R$5.000
 - Você paga: R$500/mês (só o mínimo)
 - Juros: 12% ao mês (rotativo)
 
-| Mês | Saldo | Juros | Mínimo | Após Pagar |
-|-----|-------|-------|--------|-----------|
-| 1 | R$5.000 | R$600 | R$500 | R$5.100 |
-| 2 | R$5.100 | R$612 | R$510 | R$5.202 |
-| 3 | R$5.202 | R$624 | R$520 | R$5.306 |
-| 6 | R$5.618 | R$674 | R$562 | R$5.730 |
-| 12 | R$6.900 | R$828 | R$690 | R$7.038 |
-| 24 | R$10.600 | R$1.272 | R$1.060 | R$10.812 |
-| 36 | R$16.200 | R$1.944 | R$1.620 | R$17.524 |
+| Mês | Saldo    | Juros   | Mínimo  | Após Pagar |
+| --- | -------- | ------- | ------- | ---------- |
+| 1   | R$5.000  | R$600   | R$500   | R$5.100    |
+| 2   | R$5.100  | R$612   | R$510   | R$5.202    |
+| 3   | R$5.202  | R$624   | R$520   | R$5.306    |
+| 6   | R$5.618  | R$674   | R$562   | R$5.730    |
+| 12  | R$6.900  | R$828   | R$690   | R$7.038    |
+| 24  | R$10.600 | R$1.272 | R$1.060 | R$10.812   |
+| 36  | R$16.200 | R$1.944 | R$1.620 | R$17.524   |
 
 **Após 3 anos pagando o mínimo:**
+
 - Você pagou: R$500 × 36 = **R$18.000**
 - Você ainda deve: R$17.524
 - Você quitou: **ZERO** (deve mais do que pagou!)
@@ -93,12 +95,12 @@ Cenário: Você promete parar de usar o cartão e apenas pagar dívida.
 
 Para **realmente quitar** R$5.000 em rotativo (12%):
 
-| Tempo | Pagamento Mensal | Total Pago | Juros Pagos |
-|-------|------------------|-----------|------------|
-| 24 meses | R$263 | R$6.312 | R$1.312 |
-| 36 meses | R$191 | R$6.876 | R$1.876 |
-| 48 meses | R$159 | R$7.632 | R$2.632 |
-| 60 meses | R$143 | R$8.580 | R$3.580 |
+| Tempo    | Pagamento Mensal | Total Pago | Juros Pagos |
+| -------- | ---------------- | ---------- | ----------- |
+| 24 meses | R$263            | R$6.312    | R$1.312     |
+| 36 meses | R$191            | R$6.876    | R$1.876     |
+| 48 meses | R$159            | R$7.632    | R$2.632     |
+| 60 meses | R$143            | R$8.580    | R$3.580     |
 
 Para quitar em 2 anos: precisa pagar R$263, não R$500.
 

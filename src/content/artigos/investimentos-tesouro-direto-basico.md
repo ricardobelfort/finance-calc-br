@@ -35,6 +35,7 @@ Governo diz: "Vou pagar 6% ao ano"
 Você sabe EXATAMENTE quanto vai receber.
 
 **Exemplo:**
+
 - Compra R$1.000
 - Taxa: 6% ao ano
 - Vencimento: 2030 (7 anos)
@@ -53,6 +54,7 @@ Se SELIC sobe, você ganha mais.
 Se SELIC cai, você ganha menos.
 
 **Exemplo:**
+
 - SELIC: 13%
 - Tesouro SELIC rende: 13% + 0.5% = 13.5%
 - Se SELIC cai para 10%, você recebe 10% + 0.5% = 10.5%
@@ -66,6 +68,7 @@ Governo diz: "Vou pagar IPCA + 5%"
 Seu ganho segue a inflação.
 
 **Exemplo:**
+
 - Inflação (IPCA): 7%
 - Tesouro IPCA rende: 7% + 5% = 12%
 - Você ganha acima da inflação (proteção contra inflação)
@@ -191,6 +194,7 @@ Alíquota depende do tempo:
 ### Exemplo
 
 Ganho R$100 em 6 meses:
+
 - Imposto: 22.5%
 - Você recebe: R$77.5
 - Ganho real: 77.5%

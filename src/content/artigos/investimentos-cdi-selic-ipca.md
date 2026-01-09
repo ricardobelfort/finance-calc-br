@@ -68,6 +68,7 @@ Historicamente razões técnicas. Mas hoje são praticamente a mesma coisa.
 CDB rende "100% do CDI" ou "90% do CDI".
 
 Se CDI é 13%:
+
 - 100% do CDI = 13% ao ano
 - 90% do CDI = 11,7% ao ano
 
@@ -117,9 +118,11 @@ Se investe a 4% e inflação é 7%, você PERDEU poder de compra.
 ### SELIC Alta (Ex: 13%)
 
 **Quem Ganha:**
+
 - Aplicador (rende muito em CDB, Tesouro)
 
 **Quem Perde:**
+
 - Empresário (caro pegar empréstimo)
 - Imobiliária (caro financiar imóvel)
 - Desempregado (empresas contraem)
@@ -127,11 +130,13 @@ Se investe a 4% e inflação é 7%, você PERDEU poder de compra.
 ### SELIC Baixa (Ex: 4%)
 
 **Quem Ganha:**
+
 - Empresário (barato pegar empréstimo)
 - Imobiliária (barato financiar)
 - Trabalhador (empresa expande, gera empregos)
 
 **Quem Perde:**
+
 - Aplicador (rende pouco)
 - Quem vive de juros (aposentado)
 
@@ -146,6 +151,7 @@ SELIC > IPCA (normal e bom).
 Mas quando SELIC ≈ IPCA ou fica MENOR?
 
 É sinal de que:
+
 - Economia está em problema
 - Banco Central desistiu de controlar inflação
 - Recessão vem aí
@@ -183,6 +189,7 @@ Eu não tenho acesso a dados real-time, mas tipicamente:
 - **IPCA:** Entre 4-7% nos últimos anos
 
 Você consegue em:
+
 - [Banco Central](https://bcb.gov.br)
 - App do seu banco
 - Sites de finanças (Investing.com)
