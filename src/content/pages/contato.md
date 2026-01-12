@@ -9,7 +9,7 @@ Ficou com dúvidas? Quer sugerir uma nova calculadora ou artigo? Nos contacte!
 
 ## Email
 
-Envie mensagens para: **contato@finance-calc-br.com** (exemplo)
+Envie mensagens para: **contato@finance-calc-br.com**
 
 ## Redes Sociais
 
