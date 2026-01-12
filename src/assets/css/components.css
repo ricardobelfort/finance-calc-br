@@ -84,7 +84,8 @@
   padding: var(--spacing-lg);
   margin-bottom: var(--spacing-lg);
   box-shadow: var(--shadow-sm);
-  transition: box-shadow var(--transition-base), transform var(--transition-base);
+  transition: box-shadow var(--transition-base),
+    transform var(--transition-base);
 }
 
 .card:hover {
@@ -261,7 +262,7 @@ summary {
 }
 
 summary::before {
-  content: '';
+  content: "";
   position: absolute;
   right: 0;
   width: 20px;
@@ -477,7 +478,7 @@ details[open] > *:last-child {
     width: 36px;
     height: 36px;
   }
-  
+
   .theme-toggle svg {
     width: 18px;
     height: 18px;
