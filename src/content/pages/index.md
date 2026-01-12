@@ -12,12 +12,22 @@ Somos uma plataforma com **calculadoras práticas** e **guias educativos** para 
 
 Decisões financeiras afetam sua vida por anos. Uma má escolha entre financiar ou pagar à vista, ou não entender como os juros funcionam, pode custar milhares de reais. Queremos mudar isso oferecendo ferramentas livres e transparentes.
 
-## O que oferecemos?
+## O que você pode calcular aqui
 
-### Calculadoras
+### Cartão de crédito
 
-- **Financiar vs À Vista**: Compare o custo real de comprar financiado ou com desconto à vista
-- Simulações claras com comparativos de juros
+- [Juros do rotativo](/calculadoras/juros-cartao-rotativo)
+- [Parcelar fatura vs rotativo](/calculadoras/parcelar-fatura-vs-pagar-tudo)
+
+### Compras e financiamento
+
+- [Financiar vs à vista](/calculadoras/financiar-vs-vista)
+
+### Educação financeira
+
+- Simulações com juros reais
+- Comparações de custo
+- Impacto de dívidas no longo prazo
 
 ### Guias Educativos
 
@@ -33,7 +43,7 @@ Todo o site é estático, seguro e otimizado para buscas.
 
 ## Comece agora
 
-<a href="/calculadoras/financiar-vs-vista" class="btn btn-primary">Acessar Calculadora</a>
+<a href="/calculadoras" class="btn btn-primary">Ver todas as calculadoras</a>
 <a href="/financiamento" class="btn btn-secondary">Ver Guias</a>
 
 ---

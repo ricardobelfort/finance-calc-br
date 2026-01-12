@@ -11,6 +11,16 @@ Este hub reúne **tudo que você precisa saber** sobre cartão de crédito para 
 
 ---
 
+## Ferramentas práticas (comece por aqui)
+
+Se você quer ir direto ao ponto e **ver números reais**, use as calculadoras abaixo:
+
+- ✅ **[Calculadora de Juros do Cartão (Rotativo e Pagamento Mínimo)](/calculadoras/juros-cartao-rotativo)**
+- ✅ **[Calculadora: Financiar vs À Vista](/calculadoras/financiar-vs-vista)**
+- ✅ **[Parcelar a Fatura vs Pagar Tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)**
+
+---
+
 ## Comece Aqui
 
 ### Por Que Cartão?
@@ -109,6 +119,15 @@ Antes de fazer qualquer parcelamento, responda essas perguntas.
 - Qual é a taxa real?
 - Tenho reserva de emergência?
 - Vai comprometer meu orçamento?
+
+---
+
+## Calculadoras do tema "Cartão"
+
+Para tomar decisão com base em números:
+
+- **[Calculadora de Juros do Cartão (Rotativo e Pagamento Mínimo)](/calculadoras/juros-cartao-rotativo)**  
+  Simule saldo crescendo, juros totais e impacto do pagamento mínimo.
 
 ---
 

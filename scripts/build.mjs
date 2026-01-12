@@ -158,7 +158,7 @@ function generateHTML(content, frontmatter, route) {
         </div>
         <ul class="nav-menu" id="nav-menu">
           <li><a href="/">Home</a></li>
-          <li><a href="/calculadoras/financiar-vs-vista">Calculadoras</a></li>
+          <li><a href="/calculadoras">Calculadoras</a></li>
           <li><a href="/financiamento">Guias</a></li>
           <li><a href="/cartao">Cartão</a></li>
           <li><a href="/emprestimos">Empréstimos</a></li>
@@ -203,6 +203,8 @@ function generateHTML(content, frontmatter, route) {
   <script defer src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"><\/script>
   <script defer src="/assets/js/app.js"><\/script>
   <script defer src="/assets/js/calc/finance-vs-cash.js"><\/script>
+  <script defer src="/assets/js/calc/cc-revolving-interest.js"><\/script>
+  <script defer src="/assets/js/calc/cc-installment-vs-rotativo.js"><\/script>
 </body>
 </html>`;
 
