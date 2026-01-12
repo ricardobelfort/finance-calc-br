@@ -101,9 +101,13 @@ O método verdadeiro: corte inteligente, não radical.
 ## Como Começar HOJE
 
 1. **Passo 1:** Pegue os últimos 3 meses de extrato.
+
 2. **Passo 2:** Categorize cada gasto (alimentação, transporte, etc).
+
 3. **Passo 3:** Some cada categoria.
+
 4. **Passo 4:** Compare com sua receita.
+
 5. **Passo 5:** Escolha ações (cortar, melhorar, manter).
 
 ---

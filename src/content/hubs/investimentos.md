@@ -13,6 +13,8 @@ Este hub reúne **tudo que você precisa saber** para começar a investir sem me
 
 ## Comece Aqui
 
+- [Simular Juros Compostos](/calculadoras/juros-compostos)
+
 ### Por Que Investir?
 
 - **Inflação devora dinheiro.** Poupança rende ~0.5% ao ano. Inflação rouba ~7%.
@@ -22,7 +24,9 @@ Este hub reúne **tudo que você precisa saber** para começar a investir sem me
 ### Os 3 Pilares de Todo Investimento
 
 1. **Risco:** Chance de perder dinheiro (zero, baixo, médio, alto).
+
 2. **Rentabilidade:** Quanto ganha por ano (% ao ano).
+
 3. **Liquidez:** Quão rápido consegue sacar.
 
 Não existe ganho alto sem risco alto. Desconfia de quem promete.

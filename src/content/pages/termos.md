@@ -5,7 +5,7 @@ description: "Termos de uso do Finance Calc BR. Leia antes de usar nossas calcul
 
 # Termos de Uso
 
-_Última atualização: 8 de janeiro de 2025_
+_Última atualização: janeiro de 2026_
 
 ## Aceitação
 

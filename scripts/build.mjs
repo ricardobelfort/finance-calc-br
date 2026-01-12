@@ -70,12 +70,30 @@ function ensureDirectoryExists(filePath) {
   }
 }
 
+/**
+ * Garante que a URL da imagem esteja absoluta (necessário para OG/Twitter)
+ */
+function toAbsoluteUrl(url) {
+  if (!url) return `${baseUrl}/assets/images/og-image.png`;
+  if (url.startsWith('http://') || url.startsWith('https://')) return url;
+  const normalized = url.startsWith('/') ? url : `/${url}`;
+  return `${baseUrl}${normalized}`;
+}
+
 function generateHTML(content, frontmatter, route) {
   const title = frontmatter.title || 'Finance Calc BR';
-  const description = frontmatter.description || 'Calculadoras e guias de finanças pessoais';
+  const description =
+    frontmatter.description || 'Calculadoras e guias de finanças pessoais';
+
+  // Frontmatter pode definir image e imageAlt por página
   const image = frontmatter.image || `${baseUrl}/assets/images/og-image.png`;
+  const imageAlt = frontmatter.imageAlt || `Finance Calc BR — ${title}`;
+
   const canonical = `${baseUrl}${route === '/' ? '' : route}`;
   const bodyClass = frontmatter.bodyClass || '';
+
+  // OG/Twitter exigem imagem absoluta
+  const ogImage = toAbsoluteUrl(image);
 
   // Gerar breadcrumbs
   let breadcrumbs = '<nav class="breadcrumbs">';
@@ -87,7 +105,9 @@ function generateHTML(content, frontmatter, route) {
       currentPath += '/' + part;
       const isLast = idx === parts.length - 1;
       const label = part.charAt(0).toUpperCase() + part.slice(1);
-      breadcrumbs += isLast ? ` / <span>${label}</span>` : ` / <a href="${currentPath}">${label}</a>`;
+      breadcrumbs += isLast
+        ? ` / <span>${label}</span>`
+        : ` / <a href="${currentPath}">${label}</a>`;
     });
   }
   breadcrumbs += '</nav>';
@@ -97,37 +117,67 @@ function generateHTML(content, frontmatter, route) {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeHtml(description)}" />
   <meta name="theme-color" content="#ffffff" />
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="${escapeHtml(title)}" />
-  <meta property="og:description" content="${escapeHtml(description)}" />
-  <meta property="og:image" content="${image}" />
-  <meta property="og:url" content="${canonical}" />
+
+  <!-- Canonical -->
   <link rel="canonical" href="${canonical}" />
+
+  <!-- Favicons -->
   <link rel="icon" type="image/svg+xml" href="/assets/images/logo.svg" />
   <link rel="shortcut icon" href="/assets/images/logo.svg" type="image/svg+xml" />
   <link rel="apple-touch-icon" href="/assets/images/logo.svg" />
-  <title>${escapeHtml(title)}</title>
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="Finance Calc BR" />
+  <meta property="og:locale" content="pt_BR" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="${escapeHtml(title)}" />
+  <meta property="og:description" content="${escapeHtml(description)}" />
+  <meta property="og:url" content="${canonical}" />
+  <meta property="og:image" content="${ogImage}" />
+  <meta property="og:image:alt" content="${escapeHtml(imageAlt)}" />
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="${escapeHtml(title)}" />
+  <meta name="twitter:description" content="${escapeHtml(description)}" />
+  <meta name="twitter:image" content="${ogImage}" />
+  <meta name="twitter:image:alt" content="${escapeHtml(imageAlt)}" />
+
+  <!-- CSS -->
   <link rel="stylesheet" href="/assets/css/base.css" />
   <link rel="stylesheet" href="/assets/css/components.css" />
+
+  <!-- Structured Data (JSON-LD) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "${escapeHtml(title)}",
-    "description": "${escapeHtml(description)}",
-    "url": "${canonical}",
-    "image": "${image}"
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "Finance Calc BR",
+        "url": "${baseUrl}"
+      },
+      {
+        "@type": "WebPage",
+        "name": "${escapeHtml(title)}",
+        "description": "${escapeHtml(description)}",
+        "url": "${canonical}",
+        "image": "${ogImage}"
+      }
+    ]
   }
   </script>
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-K4MQC6F4LY"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'G-K4MQC6F4LY');
   </script>
 </head>
@@ -135,7 +185,11 @@ function generateHTML(content, frontmatter, route) {
   <header class="site-header">
     <nav class="navbar">
       <div class="nav-container">
-        <a href="/" class="logo"><img src="/assets/images/logo.svg" alt="Finance Calc BR" class="logo-img" /> Finance Calc BR</a>
+        <a href="/" class="logo">
+          <img src="/assets/images/logo.svg" alt="Finance Calc BR" class="logo-img" />
+          Finance Calc BR
+        </a>
+
         <div class="nav-controls">
           <button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema">
             <svg class="theme-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -150,12 +204,14 @@ function generateHTML(content, frontmatter, route) {
               <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
             </svg>
           </button>
+
           <button class="hamburger" id="hamburger" aria-label="Abrir menu" aria-expanded="false">
             <span class="hamburger-line"></span>
             <span class="hamburger-line"></span>
             <span class="hamburger-line"></span>
           </button>
         </div>
+
         <ul class="nav-menu" id="nav-menu">
           <li><a href="/">Home</a></li>
           <li><a href="/calculadoras">Calculadoras</a></li>
@@ -179,12 +235,14 @@ function generateHTML(content, frontmatter, route) {
 
   <aside class="sidebar">
     <!-- AdSense Placeholder - Topo -->
-    <!-- <ins class="adsbygoogle"
+    <!--
+    <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-xxxxxxxxxxxxxxxx"
       data-ad-slot="xxxxxxxxxx"
       data-ad-format="auto"
-      data-full-width-responsive="true"></ins> -->
+      data-full-width-responsive="true"></ins>
+    -->
   </aside>
 
   <footer class="site-footer">
@@ -202,9 +260,7 @@ function generateHTML(content, frontmatter, route) {
 
   <script defer src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"><\/script>
   <script defer src="/assets/js/app.js"><\/script>
-  <script defer src="/assets/js/calc/finance-vs-cash.js"><\/script>
-  <script defer src="/assets/js/calc/cc-revolving-interest.js"><\/script>
-  <script defer src="/assets/js/calc/cc-installment-vs-rotativo.js"><\/script>
+  <script defer src="/assets/js/calc/calculator-loader.js"></script>
 </body>
 </html>`;
 
@@ -212,6 +268,8 @@ function generateHTML(content, frontmatter, route) {
 }
 
 function escapeHtml(text) {
+  if (text === null || text === undefined) return '';
+  const str = String(text);
   const map = {
     '&': '&amp;',
     '<': '&lt;',
@@ -219,7 +277,7 @@ function escapeHtml(text) {
     '"': '&quot;',
     "'": '&#039;',
   };
-  return text.replace(/[&<>"']/g, (m) => map[m]);
+  return str.replace(/[&<>"']/g, (m) => map[m]);
 }
 
 function processDirectory(dir) {
@@ -307,17 +365,8 @@ function copyAssets(src, dest) {
   console.log(`✓ Assets copiados: ${src} -> ${dest}`);
 }
 
-copyAssets(
-  path.join(projectRoot, 'src/assets/css'),
-  path.join(publicDir, 'assets/css'),
-);
-copyAssets(
-  path.join(projectRoot, 'src/assets/js'),
-  path.join(publicDir, 'assets/js'),
-);
-copyAssets(
-  path.join(projectRoot, 'src/assets/images'),
-  path.join(publicDir, 'assets/images'),
-);
+copyAssets(path.join(projectRoot, 'src/assets/css'), path.join(publicDir, 'assets/css'));
+copyAssets(path.join(projectRoot, 'src/assets/js'), path.join(publicDir, 'assets/js'));
+copyAssets(path.join(projectRoot, 'src/assets/images'), path.join(publicDir, 'assets/images'));
 
 console.log('\n✓ Build concluído com sucesso!');

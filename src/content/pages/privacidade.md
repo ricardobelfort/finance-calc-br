@@ -5,7 +5,7 @@ description: "Conheça nossa política de privacidade. Finance Calc BR não cole
 
 # Política de Privacidade
 
-_Última atualização: 8 de janeiro de 2025_
+_Última atualização: janeiro de 2026_
 
 ## Resumo Simples
 
@@ -54,4 +54,4 @@ Dúvidas sobre privacidade? [Nos contacte](/contato)
 
 ---
 
-**Última revisão**: 8 de janeiro de 2025
+**Última revisão**: janeiro de 2026

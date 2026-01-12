@@ -302,9 +302,13 @@
 
   function init() {
     document
-      .querySelectorAll('[data-calculator="cc-revolving-interest-v2"]')
+      .querySelectorAll('[data-calculator="cc-revolving-interest"], [data-calculator="juros-cartao-rotativo"]')
       .forEach(buildCalculator);
   }
 
-  document.addEventListener('DOMContentLoaded', init);
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
 })();

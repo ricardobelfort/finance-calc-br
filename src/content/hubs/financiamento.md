@@ -139,9 +139,11 @@ Muitos contratos permitem quitar antes do prazo sem penalidade. Se receber uma q
 ## Próximas Ações
 
 1. [Acesse a calculadora](/calculadoras/financiar-vs-vista) e simule seu cenário
+
 2. Leia os artigos em ordem para aprofundar conhecimento
+
 3. [Entre em contato](/contato) se tiver dúvidas
 
 ---
 
-**Última atualização**: 8 de janeiro de 2025
+**Última atualização**: janeiro de 2026

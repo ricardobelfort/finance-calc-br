@@ -13,6 +13,10 @@ Este hub reúne **tudo que você precisa saber** sobre empréstimos para tomar d
 
 ## Comece Aqui
 
+### Empréstimos
+
+- [Simulador de Empréstimo Pessoal](/calculadoras/emprestimo-pessoal)
+
 ### Tipos de Empréstimo (Do Melhor para o Pior)
 
 1. **Empréstimo Consignado** - Juros baixos, risco controlado.

@@ -1,50 +1,74 @@
 ---
 title: "Finance Calc BR - Calculadoras e Guias de Finanças Pessoais"
-description: "Ferramentas gratuitas para ajudar você a tomar melhores decisões financeiras: calculadora de financiamento vs à vista, guias sobre juros e muito mais."
+description: "Ferramentas gratuitas para ajudar você a tomar melhores decisões financeiras: calculadora de financiamento vs à vista, juros do cartão, parcelamento e muito mais."
+image: "/assets/images/og-home.png"
+imageAlt: "Simuladores financeiros do Finance Calc BR mostrando juros, parcelas e comparações de custo"
 bodyClass: "home"
 ---
 
 # Bem-vindo ao Finance Calc BR
 
-Somos uma plataforma com **calculadoras práticas** e **guias educativos** para ajudar você a tomar melhores decisões financeiras. Sem complicação, sem jargão bancário.
+Somos uma plataforma com **calculadoras práticas** e **guias educativos** para ajudar você a tomar melhores decisões financeiras.  
+Sem complicação, sem jargão bancário.
 
 ## Por que estamos aqui?
 
-Decisões financeiras afetam sua vida por anos. Uma má escolha entre financiar ou pagar à vista, ou não entender como os juros funcionam, pode custar milhares de reais. Queremos mudar isso oferecendo ferramentas livres e transparentes.
+Decisões financeiras afetam sua vida por anos. Uma má escolha entre financiar ou pagar à vista, ou não entender como os juros funcionam, pode custar milhares de reais.
+
+Queremos mudar isso oferecendo **ferramentas livres, transparentes e fáceis de usar**.
+
+---
 
 ## O que você pode calcular aqui
 
-### Cartão de crédito
+### 💳 Cartão de crédito
 
 - [Juros do rotativo](/calculadoras/juros-cartao-rotativo)
-- [Parcelar fatura vs rotativo](/calculadoras/parcelar-fatura-vs-pagar-tudo)
+- [Parcelar fatura vs pagar tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)
 
-### Compras e financiamento
+### 🛒 Compras e financiamento
 
 - [Financiar vs à vista](/calculadoras/financiar-vs-vista)
 
-### Educação financeira
+### 📊 Educação financeira
 
-- Simulações com juros reais
-- Comparações de custo
-- Impacto de dívidas no longo prazo
+- [Como os juros funcionam de verdade](/financiamento/juros-como-funcionam)
+- [Price vs SAC: qual escolher?](/financiamento/price-vs-sac)
+- [Dívida bola de neve: como sair](/emprestimos/divida-bola-de-neve)
+- [Regra 50/30/20](/orcamento/regra-50-30-20)
 
-### Guias Educativos
+---
 
-- Como os juros funcionam de verdade
-- Diferenças entre Price e SAC
-- Quando faz sentido pagar entrada ou parcelar
+## Guias completos por tema
 
-### SEO-friendly e Rápido
+Explore os hubs principais do site:
 
-Todo o site é estático, seguro e otimizado para buscas.
+- [Guia de Cartão de Crédito](/cartao)
+- [Guia de Empréstimos](/emprestimos)
+- [Guia de Orçamento](/orcamento)
+- [Guia de Investimentos](/investimentos)
+- [Guia de Financiamento](/financiamento)
+
+Cada guia reúne explicações, exemplos práticos e links para calculadoras relacionadas.
+
+---
+
+## 🔥 Mais usados
+
+Se você não sabe por onde começar, estas são as ferramentas mais acessadas:
+
+- 👉 [Simular juros do cartão de crédito](/calculadoras/juros-cartao-rotativo)
+- 👉 [Parcelar fatura ou pagar tudo?](/calculadoras/parcelar-fatura-vs-pagar-tudo)
+- 👉 [Financiar ou pagar à vista](/calculadoras/financiar-vs-vista)
+- 👉 [Simular juros compostos](/calculadoras/juros-compostos)
 
 ---
 
 ## Comece agora
 
 <a href="/calculadoras" class="btn btn-primary">Ver todas as calculadoras</a>
-<a href="/financiamento" class="btn btn-secondary">Ver Guias</a>
+<a href="/cartao" class="btn btn-secondary">Guia de Cartão</a>
+<a href="/orcamento" class="btn btn-secondary">Organizar minhas finanças</a>
 
 ---
 

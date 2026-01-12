@@ -16,7 +16,7 @@ Nesta calculadora você pode simular:
 
 ## Calculadora interativa
 
-<div data-calculator="cc-revolving-interest-v2"></div>
+<div data-calculator="juros-cartao-rotativo"></div>
 
 ---
 

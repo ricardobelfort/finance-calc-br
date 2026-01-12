@@ -385,10 +385,17 @@ class FinanceVsCashCalculator {
 // Inicializar
 // ==========================================
 
-document.addEventListener('DOMContentLoaded', () => {
+const __boot = () => {
   const calculatorContainers = document.querySelectorAll('[data-calculator="finance-vs-cash"]');
 
   calculatorContainers.forEach((container) => {
     new FinanceVsCashCalculator(container);
   });
-});
+};
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', __boot);
+} else {
+  __boot();
+}
+
