@@ -20,6 +20,13 @@ function toCanonicalUrl(route) {
   return `${baseUrl}${normalizedRoute}`;
 }
 
+function formatSitemapLastmod(date) {
+  if (!date) return null;
+  const d = date instanceof Date ? date : new Date(date);
+  if (Number.isNaN(d.getTime())) return null;
+  return d.toISOString().slice(0, 10);
+}
+
 // Criar public se não existir
 if (!fs.existsSync(publicDir)) {
   fs.mkdirSync(publicDir, { recursive: true });
@@ -30,7 +37,7 @@ fs.rmSync(publicDir, { recursive: true });
 fs.mkdirSync(publicDir, { recursive: true });
 
 const routes = [];
-const siteMap = [];
+const siteMap = new Map();
 
 function getRouteFromPath(filePath) {
   const relative = path.relative(contentDir, filePath);
@@ -327,7 +334,8 @@ function processDirectory(dir) {
         title: frontmatter.title || 'Sem título',
       });
 
-      siteMap.push(route);
+      const lastmod = formatSitemapLastmod(stat.mtime);
+      siteMap.set(route, lastmod);
 
       console.log(`✓ ${filePath} -> ${outputPath}`);
     }
@@ -340,11 +348,11 @@ processDirectory(contentDir);
 // Gerar sitemap.xml
 const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${siteMap
+${Array.from(siteMap.entries())
   .map(
-    (route) => `  <url>
+    ([route, lastmod]) => `  <url>
     <loc>${toCanonicalUrl(route)}</loc>
-    <changefreq>weekly</changefreq>
+${lastmod ? `    <lastmod>${lastmod}</lastmod>\n` : ''}    <changefreq>weekly</changefreq>
     <priority>${route === '/' ? '1.0' : '0.8'}</priority>
   </url>`,
   )
