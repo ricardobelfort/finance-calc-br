@@ -15,6 +15,11 @@ const contentDir = path.join(projectRoot, 'src/content');
 const publicDir = path.join(projectRoot, 'public');
 const baseUrl = 'https://www.financecalcbr.com.br';
 
+function toCanonicalUrl(route) {
+  const normalizedRoute = route === '/' ? '/' : route;
+  return `${baseUrl}${normalizedRoute}`;
+}
+
 // Criar public se não existir
 if (!fs.existsSync(publicDir)) {
   fs.mkdirSync(publicDir, { recursive: true });
@@ -89,7 +94,7 @@ function generateHTML(content, frontmatter, route) {
   const image = frontmatter.image || `${baseUrl}/assets/images/og-image.png`;
   const imageAlt = frontmatter.imageAlt || `Finance Calc BR — ${title}`;
 
-  const canonical = `${baseUrl}${route === '/' ? '' : route}`;
+  const canonical = toCanonicalUrl(route);
   const bodyClass = frontmatter.bodyClass || '';
 
   // OG/Twitter exigem imagem absoluta
@@ -159,7 +164,7 @@ function generateHTML(content, frontmatter, route) {
       {
         "@type": "WebSite",
         "name": "Finance Calc BR",
-        "url": "${baseUrl}"
+        "url": "${toCanonicalUrl('/')}"
       },
       {
         "@type": "WebPage",
@@ -338,7 +343,7 @@ const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 ${siteMap
   .map(
     (route) => `  <url>
-    <loc>${baseUrl}${route === '/' ? '' : route}</loc>
+    <loc>${toCanonicalUrl(route)}</loc>
     <changefreq>weekly</changefreq>
     <priority>${route === '/' ? '1.0' : '0.8'}</priority>
   </url>`,
