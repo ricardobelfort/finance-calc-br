@@ -66,9 +66,9 @@ Se você não sabe por onde começar, estas são as ferramentas mais acessadas:
 
 ## Comece agora
 
-<a href="/calculadoras" class="btn btn-primary">Ver todas as calculadoras</a>
-<a href="/cartao" class="btn btn-secondary">Guia de Cartão</a>
-<a href="/orcamento" class="btn btn-secondary">Organizar minhas finanças</a>
+- [Ver todas as calculadoras](/calculadoras)
+- [Guia de Cartão](/cartao)
+- [Organizar minhas finanças](/orcamento)
 
 ---
 
