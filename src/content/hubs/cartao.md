@@ -175,7 +175,7 @@ O fechamento é quando o banco soma suas compras. O vencimento é a data limite 
 
 Aprofunde seu conhecimento com nossos guias práticos:
 
-- 🔴 [Juros do cartão rotativo: como funciona e como sair dessa armadilha](/cartao/rotativo)
+- 🔴 [Juros do cartão rotativo: como funciona e como sair dessa armadilha](/cartao/juros-cartao-rotativo)
 - 💳 [Limite do cartão: quanto usar sem prejudicar seu score](/cartao/limite)
 - 💰 [Cashback, milhas e benefícios: o que realmente vale a pena](/cartao/cashback-milhas)
 - 📉 [Pagamento mínimo: por que isso vira uma bola de neve](/cartao/pagar-minimo)
