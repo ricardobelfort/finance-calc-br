@@ -1,154 +1,184 @@
 ---
-title: "Guia de Cartão de Crédito - Finance Calc BR"
-description: "Aprenda a usar cartão de crédito com inteligência: juros, limite, programação e estratégias para não cair em dívida."
+title: Cartão de Crédito — Guia Completo para Usar Bem, Evitar Juros e Economizar
+description: Aprenda como usar cartão de crédito do jeito certo, evitar o rotativo, aumentar seu score e transformar o cartão em uma ferramenta financeira.
+type: hub
 ---
 
-# Guia Completo: Cartão de Crédito
+# Cartão de Crédito: Guia Completo para Usar Bem e Evitar Dívidas
 
-O cartão de crédito é uma ferramenta poderosa. Mal usada, vira uma prisão financeira.
-
-Este hub reúne **tudo que você precisa saber** sobre cartão de crédito para dominar essa ferramenta.
-
----
-
-## Ferramentas práticas (comece por aqui)
-
-Se você quer ir direto ao ponto e **ver números reais**, use as calculadoras abaixo:
-
-- ✅ **[Calculadora de Juros do Cartão (Rotativo e Pagamento Mínimo)](/calculadoras/juros-cartao-rotativo)**
-- ✅ **[Calculadora: Financiar vs À Vista](/calculadoras/financiar-vs-vista)**
-- ✅ **[Parcelar a Fatura vs Pagar Tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)**
+**Resumo rápido:**  
+O cartão de crédito pode ser um aliado poderoso ou uma armadilha financeira.  
+Quem paga a fatura inteira e usa até 30–50% do limite ganha benefícios, pontos e melhora o score.  
+Quem entra no rotativo paga os juros mais altos do Brasil — **[veja aqui como calcular o impacto real no seu bolso](/calculadoras/juros-cartao-rotativo)**.
 
 ---
 
-## Comece Aqui
+## O que é o cartão de crédito (de verdade)?
 
-### Por Que Cartão?
+O cartão de crédito não é dinheiro.  
+Ele é um **empréstimo automático de curto prazo** que o banco te concede todo mês.
 
-- **Vantagem 1:** Pague depois, não agora. Dinheiro rende enquanto você usa crédito.
-- **Vantagem 2:** Cashback e milhas. Ganhe recompensas por gastar.
-- **Vantagem 3:** Segurança. Não carregue dinheiro, use plástico.
+Quando você compra:
 
-### O Risco Real
+- O banco paga o lojista.
+- Você passa a dever ao banco.
+- Se não pagar tudo, entram **juros**.
 
-- Juros podem ultrapassar **400% ao ano** em rotativo.
-- Uma dívida pequena vira uma bola de neve rápido.
-- Mínimo mensal é uma armadilha, não uma solução.
-
----
-
-## Artigos Principais
-
-### 1. **[Rotativo: Como Funciona e Por Que Evitar](/cartao/rotativo)**
-
-O maior vilão do cartão de crédito.
-
-- O que é rotativo?
-- Por que os juros são tão altos?
-- Como sair do rotativo?
-- Alternativas melhores.
-
-### 2. **[Parcelamento vs Rotativo: Qual Escolher](/cartao/parcelamento-fatura)**
-
-Nem sempre parcelar é melhor. Aqui você aprende quando cada um faz sentido.
-
-- Quando parcelar?
-- Quando pagar tudo?
-- Parcelamento sem juros existe?
-- Taxa real vs percentual aparente.
-
-### 3. **[O Perigo do Pagamento Mínimo](/cartao/pagar-minimo)**
-
-Descobrir por que pagar só o mínimo é a receita para endividamento.
-
-- Como o mínimo funciona?
-- Quanto tempo leva para pagar?
-- Quanto você pagará em juros?
-- Simulação prática com exemplos.
-
-### 4. **[Limite do Cartão: Como Usar Sem Abusar](/cartao/limite)**
-
-Seu limite não é seu dinheiro. Mas como usá-lo de forma inteligente?
-
-- Como funciona o limite?
-- É bom ter limite alto?
-- Dinâmica de crédito.
-- Quando aumentar o limite (e quando não).
-
-### 5. **[Anuidade: Vale a Pena Pagar?](/cartao/anuidade)**
-
-Premium, gold, platinum... Vale a pena pagar anuidade?
-
-- Quanto custa cada categoria?
-- Quais benefícios valem a pena?
-- Como pedir isenção de anuidade.
-- Cartões sem anuidade são sempre melhores?
-
-### 6. **[Cashback e Milhas: Como Ganhar Sem Gastar Mais](/cartao/cashback-milhas)**
-
-Transforme suas compras em recompensas reais.
-
-- Como funciona o cashback?
-- Vale a pena acumular milhas?
-- Cartão para viajar vs cashback.
-- Estratégias para maximizar retorno.
-
-### 7. **[Por Que os Juros do Cartão São Tão Altos?](/cartao/juros-por-que-tao-alto)**
-
-Entenda a economia por trás daqueles números assustadores.
-
-- Risco de não pagamento.
-- Custo de operação dos bancos.
-- Comparação com outros empréstimos.
-- Regulação e mercado.
-
-### 8. **[Como Sair da Dívida de Cartão](/cartao/como-sair)**
-
-Você já está preso? Aqui está o guia para escapar.
-
-- Consolidação de dívida.
-- Renegociação com o banco.
-- Programa de repactuação.
-- Pior caso: o que fazer?
-
-### 9. **[Checklist Antes de Parcelar no Cartão](/cartao/checklist-antes-de-parcelar)**
-
-Antes de fazer qualquer parcelamento, responda essas perguntas.
-
-- Posso pagar tudo?
-- Qual é a taxa real?
-- Tenho reserva de emergência?
-- Vai comprometer meu orçamento?
+🔴 Esses juros são os mais caros do mercado financeiro brasileiro.
 
 ---
 
-## Calculadoras do tema "Cartão"
+## O que acontece quando você não paga a fatura inteira?
 
-Para tomar decisão com base em números:
+Quando você paga menos que o total da fatura, o banco escolhe uma dessas opções:
 
-- **[Calculadora de Juros do Cartão (Rotativo e Pagamento Mínimo)](/calculadoras/juros-cartao-rotativo)**  
-  Simule saldo crescendo, juros totais e impacto do pagamento mínimo.
+| Situação                   | O que acontece                     | Impacto                       |
+| -------------------------- | ---------------------------------- | ----------------------------- |
+| **Crédito rotativo**       | A dívida entra em juros altíssimos | 🔴 Dívida explode             |
+| **Parcelamento da fatura** | O valor vira parcelas fixas        | ⚠️ Ainda caro, mas menos pior |
+| **Pagamento integral**     | Nada de juros                      | ✅ Melhor cenário             |
 
----
+> ⚠️ O rotativo pode passar de **12% ao mês**, o que equivale a mais de **300% ao ano**.
 
-## Conceitos-Chave
-
-**Rotativo:** Pagar apenas parte da fatura e levar o restante para o mês seguinte, acumulando juros.
-
-**Parcelamento:** Dividir uma compra em parcelas já definidas, com juros negociados.
-
-**Juros:** O preço que você paga por pegar dinheiro emprestado do banco.
-
-**Limite:** O máximo que você pode gastar usando crédito.
-
-**Cashback:** Dinheiro de volta em determinadas compras.
+👉 **Simule isso agora:**  
+[Calculadora de Juros do Cartão Rotativo](/calculadoras/juros-cartao-rotativo)
 
 ---
 
-## Links Relacionados
+## Quanto do limite é seguro usar?
 
-- [Guia de Financiamento](/financiamento)
-- [Como Sair de Dívida](/financiamento/divida-bola-de-neve) _(parecido com cartão)_
-- [Orçamento Pessoal](/orcamento) _(para incluir gastos com cartão)_
+A regra usada pelos bancos e pelo Serasa é simples:
 
-Próximo passo: Leia o primeiro artigo e descubra como usar cartão sem medo de dívida!
+| Uso do limite | Impacto no score     |
+| ------------- | -------------------- |
+| Até 30%       | ✅ Excelente         |
+| 30–50%        | ⚠️ Aceitável         |
+| 50–80%        | 🔴 Arriscado         |
+| 80–100%       | 🚨 Prejuízo ao score |
+
+Mesmo pagando em dia, usar 100% do limite **derruba sua pontuação de crédito**.
+
+Isso impacta:
+
+- Financiamentos
+- Empréstimos
+- Limites futuros
+
+---
+
+## Parcelar no cartão é bom ou ruim?
+
+Depende.
+
+Parcelar **sem juros** pode ser vantajoso quando:
+
+- Você mantém o limite baixo
+- Seu orçamento comporta as parcelas
+
+Parcelar **com juros** quase sempre é ruim.
+
+👉 Compare agora:  
+[Parcelar fatura ou pagar tudo?](/calculadoras/parcelar-fatura-vs-pagar-tudo)
+
+---
+
+## Cartão pode ajudar no seu orçamento?
+
+Sim — se for usado corretamente.
+
+O cartão permite:
+
+- Organizar gastos por fatura
+- Ganhar até 40 dias para pagar
+- Concentrar despesas
+
+Mas sem controle ele:
+
+- Estoura seu limite
+- Bagunça seu fluxo de caixa
+- Te prende em dívidas
+
+👉 Veja como organizar isso:  
+[Como controlar gastos no orçamento](/orcamento)
+
+---
+
+## Cartão também impacta seus investimentos
+
+Quando você paga juros no cartão, você:
+
+> Está entregando ao banco um dinheiro que poderia render para você.
+
+Se esse valor estivesse investido em:
+
+- Tesouro Selic
+- CDB
+- Fundos DI
+
+Você estaria ganhando juros, não perdendo.
+
+👉 Se você já parou de pagar juros e começou a sobrar dinheiro, o próximo passo é criar sua **reserva de emergência** e organizar seus gastos:  
+[Como organizar seu orçamento mensal](/orcamento)
+
+Depois disso, veja como fazer o dinheiro trabalhar para você:  
+[Guia completo de investimentos](/investimentos)
+
+---
+
+## Ferramentas para usar cartão com inteligência
+
+Use nossas calculadoras para decidir antes de errar:
+
+- 🔢 [Juros do cartão rotativo](/calculadoras/juros-cartao-rotativo)
+- 📊 [Parcelar ou pagar tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)
+- 💳 [Financiar ou pagar à vista](/calculadoras/financiar-vs-a-vista)
+
+---
+
+## Perguntas frequentes sobre cartão de crédito
+
+<details>
+<summary>Cartão de crédito aumenta o score?</summary>
+Sim. Quando usado com baixo uso do limite e pagamentos em dia, o cartão melhora sua pontuação no Serasa.
+</details>
+
+<details>
+<summary>Vale a pena usar 100% do limite?</summary>
+Não. O ideal é usar no máximo 30–50% do limite para não prejudicar seu score.
+</details>
+
+<details>
+<summary>Parcelar é melhor que rotativo?</summary>
+Quase sempre sim. O rotativo tem juros muito mais altos.
+</details>
+
+## Outras dúvidas comuns sobre cartão de crédito
+
+<details>
+<summary>Como aumentar o limite do cartão rápido?</summary>
+Pagar a fatura inteira, usar pouco limite e manter renda atualizada no banco aumenta suas chances.
+</details>
+
+<details>
+<summary>Pagar a fatura antes do vencimento ajuda o score?</summary>
+Sim. Antecipar o pagamento reduz o uso do limite e melhora sua imagem para o banco.
+</details>
+
+<details>
+<summary>Qual a diferença entre fechamento e vencimento?</summary>
+O fechamento é quando o banco soma suas compras. O vencimento é a data limite para pagar sem juros.
+</details>
+
+---
+
+## Guias completos sobre Cartão de Crédito
+
+Aprofunde seu conhecimento com nossos guias práticos:
+
+- 🔴 [Juros do cartão rotativo: como funciona e como sair dessa armadilha](/cartao/rotativo)
+- 💳 [Limite do cartão: quanto usar sem prejudicar seu score](/cartao/limite)
+- 💰 [Cashback, milhas e benefícios: o que realmente vale a pena](/cartao/cashback-milhas)
+- 📉 [Pagamento mínimo: por que isso vira uma bola de neve](/cartao/pagar-minimo)
+- 📊 [Parcelamento da fatura: quando vale a pena e quando evitar](/cartao/parcelamento-fatura)
+
+Esses conteúdos formam o **cluster Cartão**, que conecta o uso do cartão ao seu **orçamento**, **empréstimos** e **investimentos**.

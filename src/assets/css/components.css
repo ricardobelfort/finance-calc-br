@@ -501,7 +501,6 @@ details[open] > *:last-child {
   border: none;
   cursor: pointer;
   display: none;
-  flex-align: center;
   justify-content: center;
   box-shadow: var(--shadow-lg);
   transition: all var(--transition-base);
@@ -593,6 +592,7 @@ details[open] > *:last-child {
     padding: var(--spacing-sm);
   }
 }
+
 /* ========================================
    Feather Icons Support (SVG)
    ======================================== */

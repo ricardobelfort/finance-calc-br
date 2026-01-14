@@ -1,57 +1,72 @@
 ---
-title: "Calculadoras Financeiras Gratuitas - Finance Calc BR"
-description: "Simule cartão de crédito, financiamentos, juros, dívidas e investimentos com calculadoras financeiras gratuitas e precisas."
+title: "Calculadoras Financeiras Gratuitas (Cartão, Empréstimos e Investimentos) - Finance Calc BR"
+description: "Simule juros do cartão, parcelamento, empréstimos e investimentos com calculadoras gratuitas. Compare cenários e tome decisões com base em números reais."
+type: hub
 ---
 
 # Calculadoras Financeiras
 
-Aqui você encontra **calculadoras financeiras gratuitas** para tomar decisões com base em números reais — não em achismo.
+**Resumo rápido:** use estas calculadoras para comparar opções (cartão, parcelamento, empréstimo e investimento) e entender **quanto você paga de verdade** — em juros, tempo e custo total.
 
-Seja para cartão de crédito, compras parceladas, empréstimos ou investimentos, estas ferramentas mostram **quanto você realmente paga ou ganha**.
+Sem propaganda de banco. Só matemática.
 
 ---
 
-## Comece por aqui (mais usadas)
+## Comece por aqui (as mais usadas)
 
-Se você está em dúvida agora, estas resolvem 90% dos casos:
+Se você está com uma dúvida agora, comece por estas:
 
-- 💳 **[Juros do Cartão de Crédito](/calculadoras/juros-cartao-rotativo)**  
-  Veja como o rotativo e o pagamento mínimo fazem sua dívida explodir.
+- 💳 **[Juros do Cartão (Rotativo)](/calculadoras/juros-cartao-rotativo)**  
+  Simule como o rotativo e o pagamento mínimo fazem a dívida crescer.
 
 - 📆 **[Parcelar a Fatura vs Pagar Tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)**  
   Compare o custo real do parcelamento com continuar no rotativo.
 
 - 🛒 **[Financiar vs À Vista](/calculadoras/financiar-vs-vista)**  
-  Descubra se o desconto compensa os juros.
+  Descubra se o desconto compensa os juros (e qual opção é melhor no total).
 
 - 📈 **[Juros Compostos](/calculadoras/juros-compostos)**  
   Simule quanto seu dinheiro pode crescer no longo prazo.
 
 - 💰 **[Empréstimo Pessoal](/calculadoras/emprestimo-pessoal)**  
-  Veja quanto vai pagar por mês e o custo total do crédito.
+  Veja parcela, custo total e impacto no seu orçamento.
 
 ---
 
 ## 💳 Cartão de Crédito
 
-Evite juros abusivos e entenda como funciona o crédito:
+Cartão pode ser aliado (benefícios) ou armadilha (juros). Aqui estão as ferramentas mais úteis:
 
-- [Juros do Cartão (Rotativo e Mínimo)](/calculadoras/juros-cartao-rotativo)
-- [Parcelar Fatura vs Pagar Tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)
-- [Financiar compras no cartão](/calculadoras/financiar-vs-vista)
+- ✅ [Juros do Cartão (Rotativo)](/calculadoras/juros-cartao-rotativo)
+- ✅ [Parcelar a Fatura vs Pagar Tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)
+
+> ⚠️ Se você não paga o total da fatura, o banco te empurra para as modalidades mais caras.  
+> Antes de decidir, simule as opções acima com o seu valor real.
 
 ➡ Aprenda mais no **[Guia de Cartão de Crédito](/cartao)**
 
 ---
 
+## 🎁 Cashback e Milhas
+
+A dúvida mais comum é simples: **a anuidade vale a pena?**  
+Com poucos dados você já consegue ter um “veredito” claro.
+
+- ✅ **[Cashback vs Milhas (vale a anuidade?)](/calculadoras/cashback-milhas)**  
+  Compare o retorno estimado e veja qual faz mais sentido pro seu perfil.
+
+➡ Complemento: **[Cashback, milhas e benefícios](/cartao/cashback-milhas)**
+
+---
+
 ## 💵 Empréstimos e Financiamentos
 
-Calcule o custo real de pegar dinheiro emprestado:
+Pegar dinheiro emprestado não é “valor da parcela”. É **CET + prazo + custo total**.
 
-- [Simulador de Empréstimo Pessoal](/calculadoras/emprestimo-pessoal)
-- [Financiar vs À Vista](/calculadoras/financiar-vs-vista)
+- ✅ [Simulador de Empréstimo Pessoal](/calculadoras/emprestimo-pessoal)
+- ✅ [Financiar vs À Vista](/calculadoras/financiar-vs-vista)
 
-_(Price vs SAC e portabilidade virão aqui depois)_
+_(PRICE vs SAC e portabilidade entram aqui depois)_
 
 ➡ Veja o **[Guia de Empréstimos](/emprestimos)**
 
@@ -59,9 +74,9 @@ _(Price vs SAC e portabilidade virão aqui depois)_
 
 ## 📊 Investimentos
 
-Descubra quanto seu dinheiro pode render:
+Investimento é o “lado bom” dos juros: quando eles trabalham **pra você**.
 
-- [Juros Compostos](/calculadoras/juros-compostos)
+- ✅ [Juros Compostos](/calculadoras/juros-compostos)
 
 ➡ Veja o **[Guia de Investimentos](/investimentos)**
 
@@ -69,7 +84,11 @@ Descubra quanto seu dinheiro pode render:
 
 ## 📋 Orçamento e Dívidas
 
-_(em breve)_
+Esta seção vai crescer (e costuma trazer muita busca orgânica):
+
+- _(em breve)_ calculadora de reserva de emergência
+- _(em breve)_ quanto posso comprometer da renda
+- _(em breve)_ regra 50/30/20
 
 ➡ Veja o **[Guia de Orçamento](/orcamento)**
 
@@ -79,20 +98,20 @@ _(em breve)_
 
 Decisões financeiras erradas custam **anos de trabalho**.
 
-Essas ferramentas mostram:
+Estas ferramentas mostram:
 
 - Quanto você realmente paga em juros
 - Quanto tempo leva para quitar uma dívida
 - Qual opção custa menos no longo prazo
 
-Sem propaganda de banco. Só matemática.
-
 ---
 
-## Comece agora
+## Comece agora (atalhos)
 
 👉 **[Simular Juros do Cartão](/calculadoras/juros-cartao-rotativo)**
 
 👉 **[Parcelar Fatura ou Pagar Tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)**
 
 👉 **[Financiar vs À Vista](/calculadoras/financiar-vs-vista)**
+
+👉 **[Cashback vs Milhas](/calculadoras/cashback-milhas)**

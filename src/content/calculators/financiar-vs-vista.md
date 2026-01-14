@@ -25,7 +25,7 @@ Preencha os dados e clique em **Calcular**.
 
 ## Calculadora Interativa
 
-<div data-calculator="finance-vs-cash"></div>
+<div data-calculator="financiar-vs-vista"></div>
 
 ---
 

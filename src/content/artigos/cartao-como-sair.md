@@ -1,294 +1,146 @@
 ---
-title: "Como Sair da Dívida de Cartão de Crédito"
-description: "Guia prático com 7 estratégias diferentes para escapar da dívida de cartão."
+title: "Como sair da dívida do cartão de crédito (plano prático em 4 passos)"
+description: "Um guia prático para sair do rotativo, parar de pagar juros e quitar a dívida do cartão da forma mais barata possível."
+type: artigo
+cluster: cartao
+updated: "2026-01"
 ---
 
-# Como Sair da Dívida de Cartão: 7 Estratégias Práticas
+# Como sair da dívida do cartão de crédito
 
-Você está preso. Fatura alta, juros comem tudo, sente sem saída.
-
-**Tem saída. Vamos encontrar juntos.**
-
----
-
-## Avaliação Inicial: Qual É Sua Situação?
-
-### Situação 1: Dívida Pequena (< R$5k)
-
-- Recuperação: ~3-6 meses
-- Urgência: Média
-- Melhor estratégia: Poupança agressiva ou empréstimo pequeno
-
-### Situação 2: Dívida Média (R$5k-R$20k)
-
-- Recuperação: ~6-18 meses
-- Urgência: Alta
-- Melhor estratégia: Consolidação ou empréstimo pessoal
-
-### Situação 3: Dívida Grande (> R$20k)
-
-- Recuperação: ~2-3 anos
-- Urgência: Muito alta
-- Melhor estratégia: Renegociação + programa de repactuação
+**Resumo rápido:** sair da dívida do cartão não é sobre “pagar quando der”. É sobre **matar o rotativo**, **parar os juros** e seguir um plano que reduza o custo total.  
+👉 Descubra o tamanho do problema: [Calculadora de Juros do Cartão Rotativo](/calculadoras/juros-cartao-rotativo)
 
 ---
 
-## Estratégia 1: Poupança Agressiva
+## Por que o cartão prende tanta gente?
 
-**Para:** Dívida pequena (< R$5k) se consegue guardar R$1k+/mês
+Porque ele combina três coisas perigosas:
 
-### Como Fazer
+- Limite alto
+- Pagamento mínimo
+- Juros compostos
 
-1. **Corte tudo:** Streaming, carro por Uber, restaurante
-2. **Guarde agressivamente:** Meta R$1.500-2.000/mês
-3. **Após 3-4 meses:** Pague dívida inteira
-4. **Stop usando cartão:** Cancele ou trancafie
-
-### Cálculo
-
-- Dívida: R$4.000
-- Juros cartão: 12%/mês = R$480/mês
-- Você poupa: R$2.000/mês
-- Mês 1: Paga R$2.000 (deve R$2.480)
-- Mês 2: Paga R$2.000 (deve R$960)
-- Mês 3: Paga R$1.000 (paga tudo!)
-
-**Tempo:** 3 meses
-
-**Desvantagem:** Exige disciplina extrema
+> Você não está devendo. Você está pagando **aluguel de dinheiro** ao banco.
 
 ---
 
-## Estratégia 2: Empréstimo Pessoal
+## Passo 1 — Descubra o valor real da sua dívida
 
-**Para:** Dívida média (R$5k-R$20k)
+Antes de qualquer coisa, simule:
 
-Pega empréstimo, paga cartão, paga empréstimo em parcelas.
+👉 [Calculadora de Juros do Cartão](/calculadoras/juros-cartao-rotativo)
 
-### Comparação de Juros
+Ela mostra:
 
-- Cartão: 12%/mês = 144%/ano
-- Empréstimo: 3%/mês = 36%/ano
-- Economia: 108% ao ano!
+- Quanto você paga se continuar no mínimo
+- Quanto vira a dívida em 6, 12, 24 meses
 
-### Como Fazer
-
-1. **Calcula total de dívida:** Suponha R$10.000
-2. **Pede empréstimo pessoal:** R$10.000
-3. **Paga cartão:** Quitado, alívio imediato
-4. **Paga empréstimo:** 24x = ~R$450/mês (juros inclusos)
-
-### Exemplo Prático
-
-- Deve R$10.000 no cartão
-- Pega empréstimo R$10.000 em 24x = R$467/mês
-- Juros totais empréstimo: ~R$2.208
-- **Total pago:** R$12.208
-
-**Se continuasse cartão:**
-
-- Mesma dívida em 24 meses teria aumentado para **~R$40.000+**
-- Economia: ~R$28.000
-
-**Melhor banco para empréstimo:** Depende, compare (Banco Inter, Nubank, etc)
+Isso muda totalmente sua decisão.
 
 ---
 
-## Estratégia 3: Parcelamento com Banco
+## Passo 2 — Saia do rotativo imediatamente
 
-**Para:** Dívida grande ou em rotativo há meses
+Se você está no rotativo, faça **hoje** uma dessas duas coisas:
 
-Ligue para o banco. Passe para "parcelamento comum".
+| Opção                    | Quando usar                |
+| ------------------------ | -------------------------- |
+| Parcelar a fatura        | Se não tem dinheiro agora  |
+| Quitar com outro crédito | Se conseguir juros menores |
 
-### Proposta
-
-"Tenho R$15.000 em rotativo. Quero converter em parcelamento."
-
-Banco oferece:
-
-- Prazo: 12-24 meses
-- Juros: 5-8% ao mês (vs 12% do rotativo)
-- Parcela fixa
-
-### Negociação
-
-- Banco QUER tirar você de rotativo (inadimplência é risco)
-- **Você tem poder aqui**
-- Ofereça: "Posso pagar R$X/mês se reduzir juros para Y%"
+👉 Compare: [Parcelar fatura vs pagar tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)
 
 ---
 
-## Estratégia 4: Consolidação de Múltiplas Dívidas
+## Passo 3 — Escolha a dívida mais barata
 
-**Para:** Deve em vários cartões/bancos
+Regra de ouro:
 
-Quando tem dívida em 3+ lugares, fica caótico.
+> **Troque uma dívida cara por uma mais barata.**
 
-### Processo
+Exemplo:
 
-1. **Lista dívidas:** Quanto deve em cada?
-2. **Pega grande empréstimo:** Cobrindo TODAS as dívidas
-3. **Paga tudo:** Cartão 1, 2, 3, cheque especial, tudo
-4. **Paga só empréstimo:** Uma conta, uma data
+- Cartão: 12% ao mês
+- Empréstimo pessoal: 3% ao mês
 
-### Vantagem
+👉 Mesmo pagando parcelas, você economiza milhares.
 
-Psicológico: Uma dívida é mais fácil gerenciar que 5.
+Simule: [Empréstimo pessoal](/calculadoras/emprestimo-pessoal)
 
 ---
 
-## Estratégia 5: Renegociação Direta
+## Passo 4 — Trave o cartão até quitar
 
-**Para:** Devedor de longa data que não consegue pagar
+Enquanto houver dívida:
 
-Quando atrasa meses, banca oferece programas:
+- Não use o cartão
+- Não parcele novas compras
+- Não aumente o limite
 
-### Programas Comuns
-
-**Plano de Recuperação:**
-
-- Reduz juros significativamente
-- Parcelas menores
-- Prazo estendido (até 36 meses)
-- Exige atraso (infelizmente)
-
-### Como Acessar
-
-1. **Atrasa propositalmente:** 90+ dias (não recomendado, prejudica score)
-2. **Banco oferece:** Programa de recuperação
-3. **Negocia:** "Aceito R$X/mês em Y% juros"
-
-**Nota:** Prejudica score. Última opção.
+Se continuar usando, você vira um hamster na roda.
 
 ---
 
-## Estratégia 6: Negociação com Advogado
+## Estratégia matemática para quitar mais rápido
 
-**Para:** Dívida acima de R$30k + em cobrança
+Pague sempre:
 
-Alguns advogados especializados negociam com banco.
+> **Fatura do mês + um valor extra**
 
-### O Advogado Faz
-
-- Apresenta possibilidades legais
-- Negocia redução de dívida
-- Procura erros do banco (juros abusivos, cálculos errados)
-
-### Custo
-
-Geralmente % da economia (20-40%).
-
-Se deve R$50k, advogado consegue descontar R$10k, você paga advogado R$2-4k.
+Mesmo R$ 100 a mais por mês corta **meses de juros**.
 
 ---
 
-## Estratégia 7: O Pior Cenário - Insolvência Pessoal
+## Exemplo real
 
-**Para:** Impossível pagar, múltiplas dívidas, vida quebrada
+Dívida: R$ 4.000  
+Juros: 12% a.m.  
+Pagamento mínimo: 15%
 
-Último recurso. Processo legal.
+| Situação          | Resultado   |
+| ----------------- | ----------- |
+| Pagando mínimo    | Nunca acaba |
+| Parcelando em 12x | R$ 5.800    |
+| Empréstimo a 3%   | R$ 4.600    |
 
-### O Que Acontece
-
-- Juiz analisa sua situação
-- Bens podem ser vendidos
-- Dívidas podem ser reduzidas
-- Score fica destroyed por 5+ anos
-
-### Quando Considerar
-
-- Deve > 3x da renda mensal
-- Consegue pagar só 30% das dívidas
-- Vão atrás de bens
+A diferença é brutal.
 
 ---
 
-## Guia Passo a Passo: Comece HOJE
+## Erros que te mantêm preso
 
-### Passo 1: Pare de Usar o Cartão
-
-Objetivo: Dívida nunca cresce novamente.
-
-Cancele ou tranque a faca em gelo.
-
-### Passo 2: Calcule EXATAMENTE Quanto Deve
-
-Pegue extratos dos últimos 3 meses.
-
-Some tudo: rotativo + parcelado + tudo.
-
-### Passo 3: Escolha Estratégia
-
-- Deve < R$5k E consegue poupar R$2k/mês? → Estratégia 1 (Poupança)
-- Deve R$5-20k? → Estratégia 2 (Empréstimo)
-- Deve em rotativo há 3+ meses? → Estratégia 3 (Parcelamento)
-- Deve em 3+ cartões? → Estratégia 4 (Consolidação)
-- Deve > R$30k? → Estratégia 5 ou 6
-
-### Passo 4: Execute
-
-- Ligue para banco / Aplique para empréstimo / Contrate advogado
-- Siga o plano
-- Rastreie progresso
-
-### Passo 5: Reconstrua
-
-Após sair da dívida:
-
-- Mantenha cartão, mas pague tudo todo mês
-- Crie fundo de emergência (3 meses)
-- Só depois invista
+- ❌ Pagar só o mínimo
+- ❌ Usar o cartão enquanto deve
+- ❌ Ignorar o CET
+- ❌ Parcelar novas compras
 
 ---
 
-## Mindset: Como Não Cair Novamente
+## Perguntas frequentes
 
-### Regra 1: Fatura ≤ 30% da Renda
+<details>
+<summary>Vale pegar empréstimo para pagar o cartão?</summary>
+Se os juros forem menores que os do cartão, quase sempre sim.
+</details>
 
-R$3.000/mês → Fatura máxima R$900.
+<details>
+<summary>Parcelar a fatura resolve?</summary>
+Resolve o rotativo, mas ainda cobra juros. É um passo, não o fim.
+</details>
 
-### Regra 2: Pague Tudo Todo Mês
-
-Sem exceção.
-
-### Regra 3: Reserva Antes de Tudo
-
-3 meses de despesa em poupança.
-
-Quebra carro? Usa reserva, não cartão.
-
-### Regra 4: Rastreie Gastos
-
-App, spreadsheet, qualquer coisa.
-
-Conhecer fluxo previne surpresa.
+<details>
+<summary>Devo cancelar o cartão?</summary>
+Não precisa — mas deve parar de usar até quitar.
+</details>
 
 ---
 
-## FAQ
+## Próximo passo: usar o cartão sem se endividar
 
-**P: Vai prejudicar meu score?**
+Depois de sair da dívida, aprenda a usar o cartão a seu favor:
 
-R: Estratégias 1-5: Pouco/nada. Estratégia 6 (insolvência): Muito.
+👉 [Limite do cartão: quanto usar sem prejudicar seu score](/cartao/limite)  
+👉 [Cashback, milhas e benefícios](/cartao/cashback-milhas)
 
-**P: Quanto tempo para recuperar score?**
-
-R: 2-3 anos com bom comportamento.
-
-**P: Posso voltar a usar crédito depois?**
-
-R: Sim. Após 2 anos limpo, volta ao normal.
-
-**P: Juros continuam acumulando enquanto negocia?**
-
-R: Depende da estratégia. Discuta com banco.
-
----
-
-## Links Relacionados
-
-- [Rotativo: Como Sair](/cartao/rotativo)
-- [Empréstimo Pessoal: Alternativa Melhor](/emprestimos/pessoal)
-- [Orçamento Pessoal: Reconstruir Base](/orcamento)
-
-**Próximo passo:** Se está aqui lendo, provavelmente está em dívida. Escolha sua estratégia agora mesmo. Cada dia em dívida de cartão custa dinheiro.
+Esses conteúdos fazem parte do **cluster Cartão**, que conecta o uso do cartão ao seu **orçamento, empréstimos e investimentos**.

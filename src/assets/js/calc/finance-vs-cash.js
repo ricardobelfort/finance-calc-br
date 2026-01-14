@@ -386,7 +386,7 @@ class FinanceVsCashCalculator {
 // ==========================================
 
 const __boot = () => {
-  const calculatorContainers = document.querySelectorAll('[data-calculator="finance-vs-cash"]');
+  const calculatorContainers = document.querySelectorAll('[data-calculator="financiar-vs-vista"]');
 
   calculatorContainers.forEach((container) => {
     new FinanceVsCashCalculator(container);
