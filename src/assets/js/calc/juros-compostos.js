@@ -52,17 +52,19 @@ const __boot = () => {
       <div class="calculator-results" id="jc-resultado"></div>
 
       <div id="jc-tabela-wrap" style="display:none; margin-top: 16px;">
-        <table class="installment-table" aria-label="Evolução mês a mês">
-          <thead>
-            <tr>
-              <th style="text-align:right;">Período</th>
-              <th style="text-align:right;">Saldo (R$)</th>
-              <th style="text-align:right;">Aportes (R$)</th>
-              <th style="text-align:right;">Juros ganhos (R$)</th>
-            </tr>
-          </thead>
-          <tbody id="jc-tabela"></tbody>
-        </table>
+        <div class="table-wrap" aria-label="Tabela com rolagem horizontal">
+          <table class="installment-table" aria-label="Evolução mês a mês">
+            <thead>
+              <tr>
+                <th style="text-align:right;">Período</th>
+                <th style="text-align:right;">Saldo (R$)</th>
+                <th style="text-align:right;">Aportes (R$)</th>
+                <th style="text-align:right;">Juros ganhos (R$)</th>
+              </tr>
+            </thead>
+            <tbody id="jc-tabela"></tbody>
+          </table>
+        </div>
       </div>
     </div>
   `;

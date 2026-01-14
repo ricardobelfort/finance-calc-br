@@ -286,8 +286,11 @@ ol > li > ol {
 .table-wrap {
   width: 100%;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   margin-bottom: var(--spacing-md);
   border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  background: var(--color-bg);
 }
 
 /* Mantém seu visual atual */
@@ -296,8 +299,10 @@ table {
   border-collapse: collapse;
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
-  overflow: hidden;
-  min-width: 520px;
+}
+
+.table-wrap table {
+  min-width: 520px; /* ou 560px se quiser mais folga */
 }
 
 /* NEW: evita “estouro” quando tiver termos longos */
