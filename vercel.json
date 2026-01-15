@@ -20,6 +20,31 @@
       "permanent": true
     },
     {
+      "source": "/calculadoras/finance-vs-vista",
+      "destination": "/calculadoras/financiar-vs-vista",
+      "permanent": true
+    },
+    {
+      "source": "/calculadoras/financiar-vs-a-vista",
+      "destination": "/calculadoras/financiar-vs-vista",
+      "permanent": true
+    },
+    {
+      "source": "/calculadoras/parcelamento-fatura",
+      "destination": "/calculadoras/parcelar-fatura-vs-pagar-tudo",
+      "permanent": true
+    },
+    {
+      "source": "/cartao/pagamento-minimo",
+      "destination": "/cartao/pagar-minimo",
+      "permanent": true
+    },
+    {
+      "source": "/investimentos/reserva-emergencia",
+      "destination": "/orcamento/reserva-emergencia",
+      "permanent": true
+    },
+    {
       "source": "/(.*)",
       "has": [
         {
