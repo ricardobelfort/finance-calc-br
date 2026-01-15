@@ -192,18 +192,20 @@
         .join('');
 
       return `
-        <table class="installment-table">
-          <thead>
-            <tr>
-              <th>Mês</th>
-              <th>Saldo inicial</th>
-              <th>Pagamento</th>
-              <th>Juros</th>
-              <th>Saldo final</th>
-            </tr>
-          </thead>
-          <tbody>${body}</tbody>
-        </table>
+        <div class="table-wrap">
+          <table class="installment-table" aria-label="Tabela de parcelas">
+            <thead>
+              <tr>
+                <th>Mês</th>
+                <th>Saldo inicial</th>
+                <th>Pagamento</th>
+                <th>Juros</th>
+                <th>Saldo final</th>
+              </tr>
+            </thead>
+            <tbody>${body}</tbody>
+          </table>
+        </div>
       `;
     }
 

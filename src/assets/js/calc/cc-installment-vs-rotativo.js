@@ -103,21 +103,23 @@
         .join('');
 
       return `
-        <table class="installment-table">
-          <thead>
-            <tr>
-              <th>Mês</th>
-              <th>Saldo inicial</th>
-              <th>Parcela</th>
-              <th>Juros</th>
-              <th>Amortização</th>
-              <th>Saldo final</th>
-            </tr>
-          </thead>
+        <div class="table-wrap">
+          <table class="installment-table" aria-label="Tabela de parcelas">
+            <thead>
+              <tr>
+                <th>Mês</th>
+                <th>Saldo inicial</th>
+                <th>Parcela</th>
+                <th>Juros</th>
+                <th>Amortização</th>
+                <th>Saldo final</th>
+              </tr>
+            </thead>
           <tbody>${body}</tbody>
         </table>
-      `;
-    }
+      </div>
+    `;
+  }
 
     function calculate() {
       const P = parseNumberBR(balanceEl.value);

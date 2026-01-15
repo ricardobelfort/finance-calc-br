@@ -290,15 +290,16 @@ class FinanceVsCashCalculator {
     }[recomendacao.type];
 
     let tabelaHtml = `
-      <table class="installment-table">
-        <thead>
-          <tr>
-            <th>Parcela</th>
-            <th>Valor (R$)</th>
-            <th>Total Acumulado (R$)</th>
-          </tr>
-        </thead>
-        <tbody>
+      <div class="table-wrap">
+        <table class="installment-table" aria-label="Tabela de parcelas">
+          <thead>
+            <tr>
+              <th>Parcela</th>
+              <th>Valor (R$)</th>
+              <th>Total Acumulado (R$)</th>
+            </tr>
+          </thead>
+          <tbody>
     `;
 
     tabela.forEach((row) => {
@@ -314,10 +315,11 @@ class FinanceVsCashCalculator {
       `;
     });
 
-    tabelaHtml += `
+      tabelaHtml += `
         </tbody>
       </table>
-    `;
+    </div>
+  `;
 
     this.resultsDiv.innerHTML = `
       <div class="result-item">
