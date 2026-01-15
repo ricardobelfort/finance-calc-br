@@ -91,15 +91,46 @@
   --transition-fast: 150ms;
   --transition-base: 250ms;
   --transition-slow: 350ms;
+
+  /* ========================================
+     PATCH MÍNIMO (LINKS - LIGHT MODE)
+     ======================================== */
+  --color-link: var(--color-primary);
+  --color-link-hover: var(--color-primary-dark);
+  --color-link-visited: #5a2fd6; /* opcional: leve diferença */
+  --link-underline-color: rgba(103, 61, 230, 0.35);
 }
 
 /* Dark Mode */
 html.dark {
-  --color-text: var(--color-text-dark);
-  --color-bg: var(--color-bg-dark);
-  --color-bg-secondary: var(--color-bg-secondary-dark);
-  --color-bg-tertiary: var(--color-bg-tertiary-dark);
-  --color-border: var(--color-border-dark);
+  /* Backgrounds */
+  --color-bg: #121212;
+  --color-bg-secondary: #1b1b1f;
+  --color-bg-tertiary: #242428;
+
+  /* Textos */
+  --color-text: #f2f3f6; /* AAA */
+  --color-text-light: #b8b9c2; /* AA */
+  --color-text-lighter: #8a8ca0;
+
+  /* Bordas */
+  --color-border: #2f2f35;
+
+  /* Roxos adaptados para dark mode */
+  --color-primary: #b8a7ff;
+  --color-primary-dark: #9b87ff;
+  --color-primary-light: #2a2440;
+
+  /* Links */
+  --color-link: #c7b9ff; /* melhor contraste */
+  --color-link-hover: #efeaff; /* hover mais claro */
+  --color-link-visited: #a893ff;
+  --link-underline-color: rgba(199, 185, 255, 0.35);
+
+  /* Estados */
+  --color-success: #22c9a3;
+  --color-warning: #ffbf47;
+  --color-error: #ff6b8a;
 }
 
 /* ========================================
@@ -236,19 +267,26 @@ blockquote p {
    ======================================== */
 
 a {
-  color: var(--color-primary);
+  color: var(--color-link);
   text-decoration: none;
+  text-decoration-color: var(--link-underline-color);
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
   transition: color var(--transition-fast);
   cursor: pointer;
 }
 
 a:hover {
-  color: var(--color-primary-dark);
+  color: var(--color-link-hover);
   text-decoration: underline;
 }
 
 a:active {
-  color: var(--color-primary-dark);
+  color: var(--color-link);
+}
+
+a:visited {
+  color: var(--color-link-visited);
 }
 
 /* ========================================
@@ -546,16 +584,28 @@ img {
   justify-content: flex-end;
 }
 
+/* ========================================
+   PATCH MÍNIMO (NAVBAR LINKS - DARK MODE)
+   ======================================== */
+
 .nav-menu a {
   color: var(--color-text);
-  font-weight: 500;
+  font-weight: 600;
   text-decoration: none;
   transition: color var(--transition-base);
 }
 
+html.dark .nav-menu a {
+  color: var(--color-text-light);
+}
+
 .nav-menu a:hover {
-  color: var(--color-primary);
+  color: var(--color-link);
   text-decoration: none;
+}
+
+html.dark .nav-menu a:hover {
+  color: var(--color-link-hover);
 }
 
 .nav-menu > li {

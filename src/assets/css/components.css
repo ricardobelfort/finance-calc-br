@@ -59,6 +59,18 @@
   color: white;
 }
 
+/* ========================================
+   PATCH MÍNIMO (DARK MODE - CONTRASTE DO TEXTO DO BOTÃO)
+   ======================================== */
+
+html.dark .btn-primary {
+  color: #1a1a1f; /* texto escuro p/ contrastar no lilás claro */
+}
+
+html.dark .btn-primary:hover {
+  color: #121214;
+}
+
 .btn-sm {
   padding: var(--spacing-sm) var(--spacing-md);
   font-size: var(--font-size-sm);
@@ -397,6 +409,14 @@ details[open] > *:last-child {
   font-size: var(--font-size-lg);
   font-weight: 700;
   color: var(--color-primary);
+}
+
+/* ========================================
+   PATCH MÍNIMO (DARK MODE - RESULT VALUE MAIS LEGÍVEL)
+   ======================================== */
+
+html.dark .result-value {
+  color: var(--color-link);
 }
 
 .result-recommendation {
