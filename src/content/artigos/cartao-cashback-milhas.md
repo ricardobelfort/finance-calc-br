@@ -6,6 +6,8 @@ cluster: cartao
 updated: "2026-01"
 ---
 
+# Cashback ou Milhas: Qual Cartão Vale Mais a Pena?
+
 ## Resumo rápido
 
 **Cashback** devolve dinheiro direto e é simples de usar.  

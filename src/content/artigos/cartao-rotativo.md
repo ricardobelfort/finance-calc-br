@@ -6,6 +6,8 @@ cluster: cartao
 updated: "2026-01"
 ---
 
+# Juros do Cartão Rotativo: Como Funciona e Como Sair
+
 ## Resumo rápido
 
 Quando você paga menos que o valor total da fatura, o saldo entra no **crédito rotativo** e começa a crescer com os **juros mais altos do sistema financeiro brasileiro**.  

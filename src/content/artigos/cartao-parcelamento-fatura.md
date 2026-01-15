@@ -6,6 +6,8 @@ cluster: cartao
 updated: "2026-01"
 ---
 
+# Parcelamento de Fatura: Como Funciona e Quando Vale a Pena
+
 ## Resumo rápido
 
 Parcelar a fatura é quase sempre **melhor do que cair no rotativo**, mas ainda assim custa caro.  

@@ -6,6 +6,8 @@ cluster: cartao
 updated: "2026-01"
 ---
 
+# Pagar o Mínimo do Cartão: Entenda os Riscos
+
 ## Resumo rápido
 
 Pagar o **mínimo da fatura** ativa o **crédito rotativo**, que tem os juros mais caros do Brasil.  

@@ -6,6 +6,8 @@ cluster: cartao
 updated: "2026-01"
 ---
 
+# Calculadora de Cashback e Milhas
+
 ## Resumo rápido
 
 Use esta calculadora para comparar **retorno anual em reais** entre:
