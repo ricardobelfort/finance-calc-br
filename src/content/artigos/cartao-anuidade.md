@@ -1,5 +1,5 @@
 ---
-title: "Anuidade do cartão de crédito: vale a pena pagar ou é dinheiro jogado fora?"
+title: "Anuidade do cartão de crédito: vale a pena pagar?"
 description: "Descubra se a anuidade do seu cartão compensa. Compare cashback, milhas e benefícios e veja quando pedir isenção ou cancelar."
 type: artigo
 cluster: cartao

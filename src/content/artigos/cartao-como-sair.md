@@ -1,5 +1,5 @@
 ---
-title: "Como sair da dívida do cartão de crédito (plano prático em 4 passos)"
+title: "Como sair da dívida do cartão de crédito em 4 passos"
 description: "Um guia prático para sair do rotativo, parar de pagar juros e quitar a dívida do cartão da forma mais barata possível."
 type: artigo
 cluster: cartao

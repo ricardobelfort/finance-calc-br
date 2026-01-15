@@ -1,5 +1,5 @@
 ---
-title: "Calculadoras Financeiras Gratuitas (Cartão, Empréstimos e Investimentos) - Finance Calc BR"
+title: "Calculadoras Financeiras Gratuitas | Finance Calc BR"
 description: "Simule juros do cartão, parcelamento, empréstimos e investimentos com calculadoras gratuitas. Compare cenários e tome decisões com base em números reais."
 type: hub
 ---

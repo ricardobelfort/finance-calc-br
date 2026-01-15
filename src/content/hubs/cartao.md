@@ -1,5 +1,5 @@
 ---
-title: Cartão de Crédito — Guia Completo para Usar Bem, Evitar Juros e Economizar
+title: "Cartão de Crédito: Guia Completo para Usar Bem e Economizar"
 description: Aprenda como usar cartão de crédito do jeito certo, evitar o rotativo, aumentar seu score e transformar o cartão em uma ferramenta financeira.
 type: hub
 ---

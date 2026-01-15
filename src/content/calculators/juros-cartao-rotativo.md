@@ -1,5 +1,5 @@
 ---
-title: "Calculadora de Juros do Cartão (Rotativo e Pagamento Mínimo) – Finance Calc BR"
+title: "Calculadora de Juros do Cartão Rotativo | Finance Calc BR"
 description: "Simule juros do rotativo do cartão e o impacto de pagar só o mínimo. Veja tabela mês a mês, saldo final e juros totais."
 ---
 

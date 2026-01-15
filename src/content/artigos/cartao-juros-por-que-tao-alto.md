@@ -1,5 +1,5 @@
 ---
-title: "Por que os juros do cartão de crédito são tão altos? (e como parar de pagar)"
+title: "Por que os juros do cartão de crédito são tão altos?"
 description: "Entenda por que o cartão cobra os juros mais altos do Brasil e veja como escapar do rotativo, do mínimo e das armadilhas do banco."
 type: artigo
 cluster: cartao

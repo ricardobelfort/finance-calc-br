@@ -1,5 +1,5 @@
 ---
-title: "Juros do cartão rotativo: como funciona e como sair dessa armadilha"
+title: "Juros do cartão rotativo: como funciona e como sair"
 description: "Entenda por que o rotativo é o crédito mais caro do Brasil e como parar de perder dinheiro pagando só o mínimo da fatura."
 type: artigo
 cluster: cartao

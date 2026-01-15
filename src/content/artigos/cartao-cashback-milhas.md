@@ -1,5 +1,5 @@
 ---
-title: "Cashback ou milhas: qual tipo de cartão realmente vale mais a pena?"
+title: "Cashback ou milhas: qual cartão vale mais a pena?"
 description: "Compare cartões com cashback e milhas, descubra se a anuidade compensa e veja qual opção devolve mais dinheiro no seu perfil."
 type: artigo
 cluster: cartao
