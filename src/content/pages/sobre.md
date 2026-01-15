@@ -1,5 +1,5 @@
 ---
-title: "Sobre Finance Calc BR"
+title: "Sobre o Finance Calc BR: Nossa Missão e Valores"
 description: "Conheça nossa missão de oferecer ferramentas de finanças pessoais gratuitas, transparentes e precisas para todos os brasileiros."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Como Cortar Gastos Sem Sofrer"
+title: "Como Cortar Gastos Sem Sofrer: 10 Dicas Práticas"
 description: "Estratégias reais para economizar. Negocie, cancele ou substitua, sem abrir mão de tudo."
 ---
 

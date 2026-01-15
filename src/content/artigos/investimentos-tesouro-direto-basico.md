@@ -1,5 +1,5 @@
 ---
-title: "Tesouro Direto: O Básico"
+title: "Tesouro Direto: O que é e como investir para iniciantes"
 description: "Empréstimo ao governo. Taxa fixa, seguro, e jeito fácil de começar a investir."
 ---
 
