@@ -37,11 +37,21 @@ Inclua no relato:
 - Valores usados na simulação
 - O resultado esperado
 
+## Antes de enviar
+
+- Verifique se usou valores reais na calculadora.
+- Confira se a taxa de juros está no formato correto (mensal ou anual).
+- Se possível, envie um print ou passo a passo do problema.
+
 ## Tempo de Resposta
 
 Tentamos responder todas as mensagens em até 48 horas.
 
 Em períodos de maior volume, esse prazo pode se estender. Ainda assim, todas as mensagens são lidas.
+
+## Política de retorno
+
+Respondemos dúvidas gerais e sugestões. Solicitações que envolvam consultoria financeira individual não são atendidas.
 
 ---
 

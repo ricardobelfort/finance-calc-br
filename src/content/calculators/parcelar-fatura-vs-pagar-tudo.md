@@ -18,6 +18,22 @@ Parcelar pode ser a melhor opção quando você **não consegue pagar tudo**, ma
 
 Se conseguir pagar uma parte maior agora, a economia de juros costuma ser significativa.
 
+## Exemplo rápido
+
+Uma fatura de **R$ 2.000** pode virar várias parcelas com juros. Ao comparar com o rotativo, o simulador mostra qual opção gera menor custo total.
+
+## Perguntas frequentes
+
+<details>
+<summary>Parcelar sempre é melhor que rotativo?</summary>
+Quase sempre, mas o ideal é pagar o máximo possível à vista.
+</details>
+
+<details>
+<summary>O parcelamento afeta o limite?</summary>
+Sim. As parcelas ocupam limite até a quitação.
+</details>
+
 ---
 
 ## Calculadora interativa

@@ -17,6 +17,13 @@ Não basta olhar só a parcela — o que importa é:
 
 Use a calculadora abaixo para simular seu empréstimo.
 
+## Checklist rápido antes de assinar
+
+- Confirme o **CET** no contrato.
+- Compare ofertas em mais de uma instituição.
+- Evite parcelas que ultrapassem um limite confortável do seu orçamento.
+- Simule cenários com prazos diferentes para entender o impacto nos juros.
+
 ## O que considerar antes de contratar
 
 - **Custo total** (CET) importa mais do que a parcela.
@@ -59,6 +66,18 @@ A parcela fica cerca de **R$ 588**
 No final você paga **R$ 14.112**
 
 Ou seja: **R$ 4.112 só de juros**.
+
+## Perguntas frequentes
+
+<details>
+<summary>Vale a pena alongar o prazo?</summary>
+Alongar o prazo reduz a parcela, mas aumenta o custo total. Use a simulação para comparar.
+</details>
+
+<details>
+<summary>Empréstimo pessoal é sempre mais caro?</summary>
+Não necessariamente, mas costuma ter juros maiores que modalidades com garantia.
+</details>
 
 ---
 

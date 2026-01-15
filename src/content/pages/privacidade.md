@@ -24,6 +24,10 @@ Nenhum dado pessoal. O site roda 100% no seu navegador.
 
 Usamos **apenas** um cookie local para salvar sua preferência de tema (claro/escuro). Ele não deixa seu navegador e não é rastreado.
 
+### Armazenamento local
+
+Algumas preferências podem ficar salvas no navegador para melhorar a experiência (ex.: último tema usado). Você pode limpar esse armazenamento a qualquer momento nas configurações do seu navegador.
+
 ### Análise
 
 Não usamos Google Analytics ou ferramentas similares de rastreamento.
@@ -47,6 +51,10 @@ Alguns artigos podem ter links para sites externos. Leia as políticas deles tam
 ### Base legal
 
 Seguimos os princípios da LGPD: finalidade, adequação e necessidade. Como não coletamos dados pessoais, nossa operação é minimizada e transparente.
+
+### Atualizações desta política
+
+Quando houver mudanças relevantes, atualizaremos esta página e a data de revisão. Recomendamos visitar este documento periodicamente.
 
 ## Direitos
 

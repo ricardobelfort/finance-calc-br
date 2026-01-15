@@ -1,12 +1,12 @@
 ---
-title: "Juros do cartão rotativo: como funciona e como sair"
+title: "Crédito rotativo do cartão: entenda custos e como sair"
 description: "Entenda por que o crédito rotativo é o juro mais caro do Brasil, como ele funciona e como sair dessa dívida sem destruir seu orçamento."
 type: artigo
 cluster: cartao
 updated: "2026-01"
 ---
 
-# Juros do Cartão Rotativo: Como Funciona e Como Sair
+# Crédito Rotativo do Cartão: Entenda Custos e Como Sair
 
 ## Resumo rápido
 

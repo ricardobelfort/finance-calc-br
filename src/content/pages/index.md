@@ -28,6 +28,22 @@ Também acreditamos que informação clara diminui ansiedade financeira. Por iss
 
 Se preferir, comece pelos hubs temáticos e siga a trilha recomendada.
 
+## Boas práticas de decisão financeira
+
+- Compare sempre o **custo total**, não só a parcela.
+- Prefira prazos menores quando o orçamento permitir.
+- Evite decisões no impulso: simule, leia e só então escolha.
+- Use os guias para entender **conceitos** (juros, prazo, risco) antes de assinar qualquer contrato.
+
+Essas práticas simples reduzem erros comuns e ajudam a economizar dinheiro ao longo do tempo.
+
+## Glossário rápido
+
+- **Juros**: custo do dinheiro emprestado.
+- **CET**: Custo Efetivo Total, soma de juros e taxas.
+- **Rotativo**: saldo não pago do cartão que entra em juros altos.
+- **Aporte**: valor que você adiciona regularmente a um investimento.
+
 ---
 
 ## O que você pode calcular aqui

@@ -28,6 +28,14 @@ Nosso conteúdo é educativo. Não fazemos recomendações individuais nem temos
 
 Os textos são produzidos por uma equipe focada em educação financeira, com revisão para clareza e precisão. Sempre que houver atualização relevante, revisamos o conteúdo.
 
+## O que não fazemos
+
+- Não vendemos produtos financeiros.
+- Não coletamos dados pessoais para marketing.
+- Não fazemos recomendações personalizadas.
+
+Nosso foco é educar e ajudar você a comparar opções com clareza.
+
 ## Tecnologia
 
 Este site é **100% estático** e totalmente **open-source**. Ele roda em servidores de ponta e está otimizado para buscas (SEO).

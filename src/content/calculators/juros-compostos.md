@@ -25,6 +25,22 @@ Use o simulador abaixo para entender o impacto de:
 
 Pequenas mudanças na taxa e no prazo têm grande efeito no longo prazo.
 
+## Exemplo rápido
+
+Com **R$ 1.000** de capital inicial, **R$ 200** de aporte mensal e **1% ao mês** por 36 meses, o saldo final pode ultrapassar **R$ 9.000**. O simulador mostra o crescimento mês a mês.
+
+## Perguntas frequentes
+
+<details>
+<summary>Taxa anual ou mensal: qual usar?</summary>
+Use a taxa que você conhece. O simulador permite comparar os dois formatos.
+</details>
+
+<details>
+<summary>Aportes são obrigatórios?</summary>
+Não. Você pode simular só com capital inicial.
+</details>
+
 ---
 
 ## Como usar

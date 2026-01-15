@@ -22,6 +22,22 @@ O simulador mostra quanto a dívida cresce mês a mês. O mais importante é obs
 
 Na prática, quanto mais tempo você fica no rotativo, mais difícil fica sair dele.
 
+## Exemplo rápido
+
+Se você entra no rotativo com **R$ 1.000** e paga apenas o mínimo por 6 meses, o saldo pode crescer de forma acelerada. A simulação ajuda a ver esse efeito mês a mês.
+
+## Perguntas frequentes
+
+<details>
+<summary>Posso sair do rotativo com parcelamento?</summary>
+Sim. Parcelar a fatura costuma ter juros menores, mas ainda é caro.
+</details>
+
+<details>
+<summary>Pagar o mínimo evita multa?</summary>
+Evita atraso, mas mantém o saldo no rotativo e gera juros altos.
+</details>
+
 ---
 
 ## Calculadora interativa

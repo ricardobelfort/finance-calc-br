@@ -26,6 +26,33 @@ Use esta calculadora para comparar **retorno anual em reais** entre:
 
 Se você não viaja com frequência, o cashback costuma ser mais previsível. Para quem aproveita promoções, as milhas podem superar o retorno em dinheiro.
 
+## Exemplo rápido
+
+Suponha um gasto mensal de **R$ 3.000**:
+
+- Cashback de 1% gera **R$ 360/ano**.
+- Milhas equivalendo a 1,5% geram **R$ 540/ano**.
+- Se a anuidade for R$ 300, o retorno líquido vira **R$ 60** (cashback) ou **R$ 240** (milhas).
+
+O resultado muda conforme seu gasto e o valor real das milhas.
+
+## Perguntas frequentes
+
+<details>
+<summary>Milhas sempre valem mais?</summary>
+Não. Depende do valor de resgate, promoções e se você viaja com frequência.
+</details>
+
+<details>
+<summary>Cashback é mais simples?</summary>
+Sim. O retorno é direto e costuma ter menos variações.
+</details>
+
+<details>
+<summary>A anuidade pode anular o benefício?</summary>
+Sim. Por isso o cálculo do retorno líquido é essencial.
+</details>
+
 ---
 
 ## Calculadora interativa
