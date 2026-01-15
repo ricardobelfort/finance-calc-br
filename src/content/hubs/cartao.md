@@ -131,7 +131,7 @@ Use nossas calculadoras para decidir antes de errar:
 
 - 🔢 [Juros do cartão rotativo](/calculadoras/juros-cartao-rotativo)
 - 📊 [Parcelar ou pagar tudo](/calculadoras/parcelar-fatura-vs-pagar-tudo)
-- 💳 [Financiar ou pagar à vista](/calculadoras/financiar-vs-a-vista)
+- 💳 [Financiar ou pagar à vista](/calculadoras/financiar-vs-vista)
 
 ---
 

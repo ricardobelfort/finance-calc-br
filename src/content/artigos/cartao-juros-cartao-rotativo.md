@@ -95,7 +95,7 @@ Parar de pagar juros libera dinheiro todo mês.
 
 O próximo passo inteligente é montar uma reserva:
 
-👉 [Investimentos: reserva de emergência](/investimentos/reserva-emergencia)
+👉 [Investimentos: reserva de emergência](/orcamento/reserva-emergencia)
 
 ---
 
@@ -142,7 +142,7 @@ Não há um teto fixo — por isso eles são tão altos.
 Esses conteúdos fazem parte do **cluster Cartão**:
 
 - 👉 [Limite do cartão: quanto usar sem prejudicar seu score](/cartao/limite)
-- 👉 [Pagamento mínimo: por que vira uma bola de neve](/cartao/pagamento-minimo)
+- 👉 [Pagamento mínimo: por que vira uma bola de neve](/cartao/pagar-minimo)
 - 👉 [Parcelamento da fatura: quando vale a pena](/cartao/parcelamento-fatura)
 - 👉 [Cashback, milhas e benefícios: o que realmente vale](/cartao/cashback-milhas)
 

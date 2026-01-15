@@ -13,7 +13,7 @@ updated: "2026-01"
 Parcelar a fatura é quase sempre **melhor do que cair no rotativo**, mas ainda assim custa caro.  
 Ele serve para **organizar a dívida**, não para resolver o problema.
 
-👉 Veja quanto você vai pagar usando a **[Calculadora de Parcelamento da Fatura](/calculadoras/parcelamento-fatura)**.
+👉 Veja quanto você vai pagar usando a **[Calculadora de Parcelamento da Fatura](/calculadoras/parcelar-fatura-vs-pagar-tudo)**.
 
 ---
 
@@ -55,7 +55,7 @@ Mas só funciona se você **parar de usar o cartão** enquanto paga as parcelas.
 
 Antes de aceitar a proposta do banco:
 
-👉 **[Calculadora de Parcelamento da Fatura](/calculadoras/parcelamento-fatura)**
+👉 **[Calculadora de Parcelamento da Fatura](/calculadoras/parcelar-fatura-vs-pagar-tudo)**
 
 Veja quanto de juros você vai pagar no final.
 
