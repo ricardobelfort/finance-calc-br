@@ -12,6 +12,12 @@ Quando a fatura aperta, surgem duas opções comuns:
 
 Esta calculadora compara as duas alternativas e mostra **qual custa menos**.
 
+## Quando parcelar pode fazer sentido
+
+Parcelar pode ser a melhor opção quando você **não consegue pagar tudo**, mas quer evitar os juros ainda maiores do rotativo. Mesmo assim, o custo é alto.
+
+Se conseguir pagar uma parte maior agora, a economia de juros costuma ser significativa.
+
 ---
 
 ## Calculadora interativa

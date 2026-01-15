@@ -17,6 +17,13 @@ Não basta olhar só a parcela — o que importa é:
 
 Use a calculadora abaixo para simular seu empréstimo.
 
+## O que considerar antes de contratar
+
+- **Custo total** (CET) importa mais do que a parcela.
+- Compare prazos: mais meses = parcela menor, mas **juros maiores**.
+- Verifique se existe **tarifa adicional** embutida no contrato.
+- Evite comprometer mais de uma parte grande da sua renda mensal.
+
 ---
 
 ## Como usar

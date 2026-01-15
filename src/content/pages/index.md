@@ -17,6 +17,17 @@ Decisões financeiras afetam sua vida por anos. Uma má escolha entre financiar 
 
 Queremos mudar isso oferecendo **ferramentas livres, transparentes e fáceis de usar**.
 
+Também acreditamos que informação clara diminui ansiedade financeira. Por isso, cada calculadora é acompanhada de explicações simples, exemplos práticos e links para conteúdo complementar.
+
+## Como usar as calculadoras
+
+1. Escolha a ferramenta que combina com sua dúvida.
+2. Preencha os valores reais do seu caso.
+3. Compare o custo total e o impacto no tempo.
+4. Volte aos guias para entender o “porquê” do resultado.
+
+Se preferir, comece pelos hubs temáticos e siga a trilha recomendada.
+
 ---
 
 ## O que você pode calcular aqui

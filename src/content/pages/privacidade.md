@@ -28,6 +28,10 @@ Usamos **apenas** um cookie local para salvar sua preferência de tema (claro/es
 
 Não usamos Google Analytics ou ferramentas similares de rastreamento.
 
+### Logs de servidor
+
+Provedores de hospedagem podem registrar dados técnicos básicos (como IP, data e user-agent) para fins de segurança e estabilidade. Esses registros não são usados para marketing e não são compartilhados com terceiros.
+
 ### Calculadoras
 
 Quando você usa uma calculadora:
@@ -39,6 +43,10 @@ Quando você usa uma calculadora:
 ### Links Externos
 
 Alguns artigos podem ter links para sites externos. Leia as políticas deles também.
+
+### Base legal
+
+Seguimos os princípios da LGPD: finalidade, adequação e necessidade. Como não coletamos dados pessoais, nossa operação é minimizada e transparente.
 
 ## Direitos
 

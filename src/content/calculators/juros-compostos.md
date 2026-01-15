@@ -16,6 +16,15 @@ Use o simulador abaixo para entender o impacto de:
 - taxa de juros
 - tempo
 
+## Glossário rápido
+
+- **Capital inicial**: valor que você já tem.
+- **Aporte mensal**: valor que você adiciona todo mês.
+- **Taxa**: rendimento do período (mensal ou anual).
+- **Prazo**: tempo total da simulação.
+
+Pequenas mudanças na taxa e no prazo têm grande efeito no longo prazo.
+
 ---
 
 ## Como usar

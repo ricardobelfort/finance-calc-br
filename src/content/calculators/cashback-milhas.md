@@ -18,6 +18,14 @@ Use esta calculadora para comparar **retorno anual em reais** entre:
 
 > ✅ Dica: o melhor cartão é o que dá lucro **sem te empurrar para juros**.
 
+## Como interpretar o resultado
+
+- **Cashback** é dinheiro direto. Compare o percentual real após a anuidade.
+- **Milhas** variam conforme promoções e resgates. Considere um valor médio por ponto.
+- O ideal é olhar o **retorno líquido**: quanto sobra depois de custos e taxas.
+
+Se você não viaja com frequência, o cashback costuma ser mais previsível. Para quem aproveita promoções, as milhas podem superar o retorno em dinheiro.
+
 ---
 
 ## Calculadora interativa

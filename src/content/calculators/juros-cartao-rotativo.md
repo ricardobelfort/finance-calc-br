@@ -12,6 +12,16 @@ Nesta calculadora você pode simular:
 - **Rotativo por X meses** (sem pagar nada além do valor inicial)
 - **Pagando o mínimo** (todo mês você paga uma % do saldo)
 
+## Como ler o resultado
+
+O simulador mostra quanto a dívida cresce mês a mês. O mais importante é observar:
+
+- **Juros totais** acumulados
+- **Saldo final** depois do período
+- A diferença entre **rotativo** e **pagamento mínimo**
+
+Na prática, quanto mais tempo você fica no rotativo, mais difícil fica sair dele.
+
 ---
 
 ## Calculadora interativa

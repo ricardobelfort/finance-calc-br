@@ -20,6 +20,14 @@ Muitas pessoas tomam decisões financeiras importantes sem entender realmente os
 - **Simplicidade**: Sem jargão bancário. Você não precisa ser economista para usar nossas ferramentas.
 - **Gratuidade**: Sempre livre de custos. Sem anúncios invasivos.
 
+## Compromisso editorial
+
+Nosso conteúdo é educativo. Não fazemos recomendações individuais nem temos conflito de interesse com bancos. Quando citamos produtos, o foco é explicar conceitos e consequências financeiras.
+
+## Quem escreve
+
+Os textos são produzidos por uma equipe focada em educação financeira, com revisão para clareza e precisão. Sempre que houver atualização relevante, revisamos o conteúdo.
+
 ## Tecnologia
 
 Este site é **100% estático** e totalmente **open-source**. Ele roda em servidores de ponta e está otimizado para buscas (SEO).
