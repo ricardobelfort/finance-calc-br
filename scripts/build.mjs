@@ -159,15 +159,9 @@ function generateHTML(content, frontmatter, route) {
   <meta name="twitter:image" content="${ogImage}" />
   <meta name="twitter:image:alt" content="${escapeHtml(imageAlt)}" />
 
-  <!-- CSS (preload + non-blocking) -->
-  <link rel="preload" as="style" href="/assets/css/base.css" />
-  <link rel="preload" as="style" href="/assets/css/components.css" />
-  <link rel="stylesheet" href="/assets/css/base.css" media="print" onload="this.media='all'" />
-  <link rel="stylesheet" href="/assets/css/components.css" media="print" onload="this.media='all'" />
-  <noscript>
-    <link rel="stylesheet" href="/assets/css/base.css" />
-    <link rel="stylesheet" href="/assets/css/components.css" />
-  </noscript>
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/base.css" />
+  <link rel="stylesheet" href="/assets/css/components.css" />
 
   <!-- Structured Data (JSON-LD) -->
   <script type="application/ld+json">
