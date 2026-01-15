@@ -16,6 +16,8 @@ Você pode falar com a gente para:
 - Fazer parcerias editoriais ou educacionais
 - Solicitar melhorias de acessibilidade
 
+Também aceitamos feedback sobre clareza dos textos e sugestões de novos temas para guias e comparativos.
+
 ## Email
 
 Envie mensagens para: **contato@finance-calc-br.com**
@@ -48,6 +50,18 @@ Inclua no relato:
 Tentamos responder todas as mensagens em até 48 horas.
 
 Em períodos de maior volume, esse prazo pode se estender. Ainda assim, todas as mensagens são lidas.
+
+## Perguntas frequentes
+
+<details>
+<summary>Vocês oferecem consultoria financeira?</summary>
+Não. O site é educativo e não substitui aconselhamento individual.
+</details>
+
+<details>
+<summary>Posso solicitar novos recursos nas calculadoras?</summary>
+Sim. Envie a sugestão com exemplos do que gostaria de simular.
+</details>
 
 ## Política de retorno
 
