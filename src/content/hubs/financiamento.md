@@ -72,6 +72,19 @@ Use para:
 
 ---
 
+## Tópicos Relacionados
+
+### 💳 **[Guia Completo de PIX & Tributação](/pix)**
+
+Se está financiando algo, provavelmente vai usar PIX para pagamentos. Saiba como:
+
+- Como PIX funciona e por que é mais rápido
+- Limite PIX: como aumentar sem risco
+- **PIX e Imposto de Renda**: quando precisa declarar
+- Fiscalização: o que a Receita Federal vê
+
+---
+
 ## Cuidados Importantes
 
 1. **Leia a letra pequena**: Juros, taxas de serviço, seguros

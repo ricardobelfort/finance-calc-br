@@ -72,6 +72,7 @@ Explore os hubs principais do site:
 
 - [Guia de Cartão de Crédito](/cartao)
 - [Guia de Empréstimos](/emprestimos)
+- [Guia de PIX & Tributação](/pix) ⭐ **Novo!**
 - [Guia de Orçamento](/orcamento)
 - [Guia de Investimentos](/investimentos)
 - [Guia de Financiamento](/financiamento)

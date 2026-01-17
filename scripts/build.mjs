@@ -62,7 +62,7 @@ function getRouteFromPath(filePath) {
     // emprestimos-xxx -> /emprestimos/xxx
     // orcamento-xxx -> /orcamento/xxx
     // investimentos-xxx -> /investimentos/xxx
-    const prefixes = ['cartao', 'emprestimos', 'orcamento', 'investimentos'];
+    const prefixes = ['cartao', 'emprestimos', 'orcamento', 'investimentos', 'pix'];
 
     const matched = prefixes.find((p) => name.startsWith(p + '-'));
     if (matched) {
@@ -230,6 +230,7 @@ function generateHTML(content, frontmatter, route) {
           <li><a href="/financiamento">Guias</a></li>
           <li><a href="/cartao">Cartão</a></li>
           <li><a href="/emprestimos">Empréstimos</a></li>
+          <li><a href="/pix">PIX</a></li>
           <li><a href="/orcamento">Orçamento</a></li>
           <li><a href="/investimentos">Investimentos</a></li>
           <li><a href="/sobre">Sobre</a></li>
