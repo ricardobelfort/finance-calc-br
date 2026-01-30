@@ -385,4 +385,11 @@ copyAssets(path.join(projectRoot, 'src/assets/css'), path.join(publicDir, 'asset
 copyAssets(path.join(projectRoot, 'src/assets/js'), path.join(publicDir, 'assets/js'));
 copyAssets(path.join(projectRoot, 'src/assets/images'), path.join(publicDir, 'assets/images'));
 
+// Copiar ads.txt (permanece na raiz do site)
+const adsPath = path.join(projectRoot, 'ads.txt');
+if (fs.existsSync(adsPath)) {
+  fs.copyFileSync(adsPath, path.join(publicDir, 'ads.txt'));
+  console.log(`✓ ads.txt copiado: ${adsPath} -> ${publicDir}/ads.txt`);
+}
+
 console.log('\n✓ Build concluído com sucesso!');
