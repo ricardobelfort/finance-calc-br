@@ -192,6 +192,8 @@ function generateHTML(content, frontmatter, route) {
     gtag('js', new Date());
     gtag('config', 'G-K4MQC6F4LY');
   </script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8818400833766235"
+    crossorigin="anonymous"></script>
 </head>
 <body class="${bodyClass}">
   <header class="site-header">
