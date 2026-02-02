@@ -20,18 +20,17 @@ Também aceitamos feedback sobre clareza dos textos e sugestões de novos temas 
 
 ## Email
 
-Envie mensagens para: **contato@finance-calc-br.com**
+Envie mensagens para: **rbelfort2004@gmail.com**
 
 ## Redes Sociais
 
 Acompanhe atualizações:
 
-- Twitter: [@financeCalcBr](https://twitter.com)
-- LinkedIn: [Finance Calc BR](https://linkedin.com)
+- LinkedIn: [Finance Calc BR](https://www.linkedin.com/in/ricardobelfort/)
 
 ## Relatório de Bugs
 
-Encontrou um erro na calculadora? [Abra uma issue no GitHub](https://github.com)
+Encontrou um erro na calculadora? [Abra uma issue no GitHub](https://github.com/ricardobelfort/finance-calc-br)
 
 Inclua no relato:
 

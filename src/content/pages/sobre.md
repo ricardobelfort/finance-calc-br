@@ -1,45 +1,38 @@
 ---
-title: "Sobre o Finance Calc BR: Nossa Missão e Valores"
-description: "Conheça nossa missão de oferecer ferramentas de finanças pessoais gratuitas, transparentes e precisas para todos os brasileiros."
+title: "Quem Sou Eu - Ricardo Belfort"
+description: "Conheça o desenvolvedor por trás do Finance Calc BR."
 ---
 
-# Sobre Finance Calc BR
+# Quem sou eu
 
-## Nossa Missão
+Olá! Eu me chamo **Ricardo Belfort**.
 
-Colocar poder financeiro nas mãos de cada pessoa, oferecendo **calculadoras precisas** e **guias claros** — sem cobranças, sem complicações, sem agenda oculta.
+Sou desenvolvedor de software e criei o **Finance Calc BR** com um objetivo pessoal: eu estava cansado de ver sites de bancos e financeiras que escondiam a matemática por trás dos empréstimos e investimentos.
 
-## Como Começou?
+Sempre acreditei que, se você entende a conta, você toma decisões melhores.
 
-Muitas pessoas tomam decisões financeiras importantes sem entender realmente os números por trás delas. Um desconto de 10% para pagar à vista parece bom, mas quanto realmente se economiza? Essa pergunta nos inspirou a criar o Finance Calc BR.
+## Por que criei este projeto?
 
-## Valores
+Na minha carreira como desenvolvedor, sempre prezei pela transparência e lógica clara. Quando comecei a estudar mais sobre minhas próprias finanças, percebi que a maioria das calculadoras online eram:
 
-- **Transparência**: Sem algoritmos ocultos. Você vê exatamente como os números são calculados.
-- **Precisão**: Baseado em matemática financeira padrão, usada por bancos e financeiras.
-- **Simplicidade**: Sem jargão bancário. Você não precisa ser economista para usar nossas ferramentas.
-- **Gratuidade**: Sempre livre de custos. Sem anúncios invasivos.
+1.  **Cheias de anúncios** que atrapalhavam o uso.
 
-## Compromisso editorial
+2.  **Imprecisas**, ignorando impostos ou usando fórmulas simplistas.
 
-Nosso conteúdo é educativo. Não fazemos recomendações individuais nem temos conflito de interesse com bancos. Quando citamos produtos, o foco é explicar conceitos e consequências financeiras.
+3.  **Tendenciosas**, tentando vender um empréstimo no final.
 
-## Quem escreve
+Decidi usar meu conhecimento técnico para construir algo diferente: uma ferramenta **gratuita, rápida e 100% transparente**.
 
-Os textos são produzidos por uma equipe focada em educação financeira, com revisão para clareza e precisão. Sempre que houver atualização relevante, revisamos o conteúdo.
+## Meu compromisso
 
-## O que não fazemos
+Tudo o que você vê aqui foi programado por mim, linha por linha. As fórmulas utilizadas são as mesmas da matemática financeira padrão (Tabela Price, SAC, Juros Compostos).
 
-- Não vendemos produtos financeiros.
-- Não coletamos dados pessoais para marketing.
-- Não fazemos recomendações personalizadas.
+Este é um projeto independente. Eu não trabalho para nenhum banco e não ganho comissão se você pedir um empréstimo ou abrir uma conta.
 
-Nosso foco é educar e ajudar você a comparar opções com clareza.
+## Vamos conversar?
 
-## Tecnologia
+Se você encontrou um erro, tem uma sugestão ou apenas quer dar um "oi", fique à vontade para me escrever. Gosto muito de receber feedback para melhorar as ferramentas.
 
-Este site é **100% estático** e totalmente **open-source**. Ele roda em servidores de ponta e está otimizado para buscas (SEO).
+- **Email:** rbelfort2004@gmail.com
 
----
-
-**Dúvidas?** [Entre em contato](/contato)
+Obrigado pela visita!

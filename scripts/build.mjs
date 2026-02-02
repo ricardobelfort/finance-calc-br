@@ -104,7 +104,20 @@ function generateHTML(content, frontmatter, route) {
   const canonical = toCanonicalUrl(route);
   const bodyClass = frontmatter.bodyClass || '';
 
+  // Logic to add Author Box on leaf pages (articles/calculators)
+  // Excludes hubs and main pages (depth <= 1)
+  const isLeafPage = route.split('/').filter(Boolean).length > 1;
+  const authorBlock = isLeafPage
+    ? `
+<hr />
+<div class="author-box" style="margin-top: 2rem; padding: 1.5rem; background: var(--bg-card); border-radius: 8px; border: 1px solid var(--border);">
+  <p style="margin: 0; font-size: 1.1rem; color: var(--text-heading);"><strong>Escrito por Ricardo Belfort</strong> <span style="font-size: 0.9em; opacity: 0.8; font-weight: normal;">| Revisado em 01/02/2026</span></p>
+  <p style="margin: 0.5rem 0 0; color: var(--text-body);">Desenvolvedor e entusiasta de educação financeira.</p>
+</div>`
+    : '';
+
   // OG/Twitter exigem imagem absoluta
+
   const ogImage = toAbsoluteUrl(image);
 
   // Gerar breadcrumbs
@@ -245,6 +258,7 @@ function generateHTML(content, frontmatter, route) {
     <article class="content-article ${bodyClass}">
       ${breadcrumbs}
       ${content}
+      ${authorBlock}
     </article>
   </main>
 
