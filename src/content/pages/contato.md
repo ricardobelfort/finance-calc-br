@@ -24,9 +24,10 @@ Envie mensagens para: **rbelfort2004@gmail.com**
 
 ## Redes Sociais
 
-Acompanhe atualizações:
+Me acompanhe via:
 
-- LinkedIn: [Finance Calc BR](https://www.linkedin.com/in/ricardobelfort/)
+- Medium: [Artigos](https://medium.com/@ricardobelfort_62788)
+- LinkedIn: [Perfil no Linkedin](https://www.linkedin.com/in/ricardobelfort/)
 
 ## Relatório de Bugs
 
